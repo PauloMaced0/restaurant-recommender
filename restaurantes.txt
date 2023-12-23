@@ -1,0 +1,1064 @@
+1	Campo de Golfe	Amarante	Amarante	Tradicional portuguesa	Bacalhau com broa e outros	Domingo à noite
+2	Casa da Calçada	Amarante	Amarante	1 * Michelin		
+3	Quinta da Lama	Real - Vila - Meã	Amarante	Tradicional portuguesa	Bacalhau	
+4	Zé da Calçada	Amarante	Amarante	Tradicional portuguesa	Cabrito Assado, arroz de pato e outros	
+5	Churrasqueira Caldelas	Caldelas	Amares	Tradicional portuguesa	Bacalhau à casa/peixe a pedido	
+6	Cruzeiro	Amares	Amares	Tradicional portuguesa	Vários	Não encerra
+7	Espalha Brasas	Braga	Amares	Tradicional portuguesa	Açorda de Marisco/Bacalhau	3ª feira
+8	Pousada Santa Maria do Bouro	Amares	Amares	Variada		Não encerra
+9	Quinta do Esquilo	Amares	Amares	Regional		Não encerra
+10	O Caneiro	Arco de Baúlhe	Arco de Baúlhe	Regional	Arroz de Tamboril, Lombinhos	2ª feira
+11	Alto da Prova	Arcos de Valdevez	Arcos de Valdevez	Variada	Bacalhau com broa	Não encerra
+12	Grill/Costa do Vez	Silvares	Arcos de Valdevez	Tradicional portuguesa		2ª feira
+13	O Lagar	Arcos de Valdevez	Arcos de Valdevez	Tradicional portuguesa		Não encerra
+14	Videira	Arcos de Valdevez	Arcos de Valdevez	Tradicional portuguesa		3ª e 4ª feira
+15	DOC	Folgosa	Armamar	Gourmet	Tudo Bom	Domingo à noite e 2ª feira
+16	Pensão Borges	Baião	Baião	Tradicional portuguesa	Arroz do forno e anho assado e cozido à portuguesa	Não encerra
+17	Bagoeira	Barcelos	Barcelos	Regional	Vários	Não encerra
+18	Outerinho	Barcelos	Barcelos	Tradicional portuguesa	Bacalhau com Broa	Domingo à noite e 2ª feira
+19	Pedra Furada	Barcelos	Barcelos	Regional		Não encerra
+20	Viúva de Medros	Barcelinhos	Barcelos	Caseira	Estufados	
+21	Casa de Carvalhelhos (Taberna)	Boticas	Boticas	Regional		Não encerra (por marcação)
+22	Casa de Vilar (Taberna)	Boticas	Boticas	Regional	Vitela Barrosã	Não encerra
+23	5 Hoteis Bom Jesus 	Braga	Braga	Tradicional portuguesa	Variados	Não encerra
+24	Abade de Priscos	Braga	Braga	Variada		Domingo e 2ª feira ao almoço
+25	Arcoense	Braga	Braga	Tradicional portuguesa	Rojões c/papas, cabrito, cozido, etc.	Domingo
+26	Brito´s	Braga	Braga	Tradicional portuguesa	Rojões c/papas, cabrito, bacalhau, etc.	4ª feira
+27	Casa da Pedra Cavalgada	Braga	Braga	Regional		Domingo à noite e 2ª feira
+28	D. Júlia	Braga	Braga	Regional	Cabrito, Bacalhau/ peixe grelhado	2ª feira
+29	D.Elvira	Braga	Braga	Tradicional portuguesa	Filetes de Polvo c/ arroz de grelos, Bacalhau na Braga e Medalhões de Vitela	Não encerra
+30	Inácio	Braga	Braga	Variada		3ª feira
+31	Maia	Braga	Braga	Regional	Bacalhau à Sameiro e Papas à moda de Braga c/ rojões	Não encerra
+32	Expositor do Migaitas	Braga	Braga	Variada	"Peixe fresco; costelinha barrosã no forno; cabrito no forno; moamba"	Domingo à noite e 3ª feira
+33	O Fausto	Braga	Braga	Caseira	Cabrito e pica no chão	
+34	São Frutuoso	Braga	Braga	Tradicional portuguesa	Papas sarrabulho, Arroz pica no chão.	2ª feira
+35	Solar do Paço 	Braga	Braga	Tradicional portuguesa	Costeletão Grelhado	Não encerra
+36	Chefe Ruca	Bragança	Bragança	Tradicional portuguesa	Posta/Cabrito Assado na Brasa	3ª feira
+37	O Abel             (Rest. Típico)	Bragança	Bragança	Tradicional portuguesa	Posta/Cabrito Assado na Brasa	2ª feira
+38	O Geadas	Bragança	Bragança	Tradicional portuguesa	Cherne/Linguado grelhado	Não encerra
+39	O Javali	Bragança	Bragança	Tradicional portuguesa	Javali c/ Castanhas	2ª feira
+40	O Rochedo	Bragança	Bragança	Regional	"Bacalhau com gambas; Bacalhau com Natas"	Não encerra
+41	Pousada S. Bartolomeu	Bragança	Bragança	Tradicional portuguesa	Filetes Polvo	Não encerra
+42	Real Feitoria	Bragança	Bragança	Regional		Não encerra
+43	Solar Bragançano	Bragança	Bragança	Regional		2ª. feira (Inverno)
+44	Churraqueira o Paço	Arco de Baúlhe	Cabeceiras de Basto	Tradicional portuguesa	Lombinho, costelinhas. Churrasco de boi, frango de churrasco	3ª feira
+45	Luis do Outeirinho	Outeirinho	Cabeceiras de Basto	Tradicional portuguesa	Bacalhau c/ batatas a murro	4ª feira noite
+46	Nariz do Mundo	Cabeceiras de Basto	Cabeceiras de Basto	Regional		2ª e 3ª feira
+47	A Gaivota	Moledo	Caminha	Regional		Domingo (jantar)
+48	Ancoradouro	Caminha	Caminha	Regional		2ª feira
+49	Casa Tornedó	Moledo	Caminha	Tradicional portuguesa		
+50	Foz do Minho	Caminha	Caminha	Tradicional portuguesa	Mariscos e cabrito	4ª à noite e 5ª feira
+51	Mar de Moledo	Caminha	Caminha	Tradicional portuguesa	"Peixe grelhado; polvo assado no forno e cabrito da serra d'Arga no forno"	2ª feira
+52	Solar do Pescado	Caminha	Caminha	Tradicional portuguesa	Peixe	Domingo à noite e 2ª feira
+53	Calça Curta  ( Rest. Típico )	Foz -Tua 	Carrazeda de Ansiães	Tradicional portuguesa	Javali-Veado-Polvo Para petiscos- peixes do rio e enguias	Não encerra
+54	Churrascaria Veiga	Carrazeda de Ansiães	Carrazeda de Ansiães	Tradicional portuguesa	Posta à Mirandesa, Carnes grelhadas ( na brasa)                   Cozido à Portuguesa	Sábado
+55	Quintinha do Manel	Carrazeda de Ansiães	Carrazeda de Ansiães	Tradicional portuguesa	Bacalhau à quintinha. Vitela assada	Não encerra
+56	Sabores da Quinta	Fermil	Celorico de Basto	Tradicional portuguesa	Vitela assada, cabrito assado no forno	2ª,3ª e 4ª feira
+57	A Talha	Chaves	Chaves	Regional	Palhada Transmontana, Lombelos c/ presunto, Filetes de polvo e Arroz de grão de bico.	Sábado
+58	Adega Faustino	Chaves	Chaves	Regional	Orelha de porco, moelas, alheira, pica-pau, linguiça assada.	Domingo
+59	Albergaria Borges ( Rest.Típico )	Outeiro Jusão	Chaves	Regional	Cabrito assado, Bacalhau e Ossos da Suã	2ª feira
+60	Aprígio	Chaves	Chaves	Regional	Milhos, Cozido à Portuguesa e Vitela	Não encerra
+61	Carvalho	Chaves	Chaves	Regional	"Cabrito, Naco ""grelhado"" de vitela, Arroz de Fumeiro, Cozido à Portuguesa"	2ª feira
+62	Casa Os Três Lagares (Taberna)	Chaves	Chaves	Regional		Abre de 5ª a domingo (por marcação)
+63	Lavrador	Chaves	Chaves	Regional	"Pernil de Porco, Bacalhau;               Peixe."	5ª feira
+64	Quinta de Samaiões	Chaves	Chaves	Regional	Açorda de marisco, bacalhau e cabrito assado.	Não encerra
+65	O Recanto das Carvalhas	Gralheira	Cinfães	Regional	Cabrito, borrego….	2ª feira
+66	Azeite e Alho	Apúlia	Esposende	Tradicional portuguesa	Bacalhau com Broa	
+67	Casa da Fonte	Forjães	Esposende	Tradicional portuguesa	Açorda de Marisco e Açorda de Bacalhau, Bacalhau com Broa Polvo Grelhado,…	2ª feira
+68	Foz do Cávado	Esposende	Esposende	Tradicional portuguesa	Rojões à Minhota	2ª feira
+69	Hotel Suave Mar	Esposende	Esposende	Tradicional portuguesa		
+70	Mira Rio	Esposende	Esposende	Tradicional portuguesa	Filetes Pescada	
+71	O Apúliense	Apúlia	Esposende	Tradicional portuguesa	Sapateira Recheada	
+72	O Camelo	Apúlia	Esposende	Tradicional portuguesa	Rojões	
+73	O Forno	Apúlia	Esposende	Tradicional portuguesa	Peixe Grelhado	
+74	Salgueira	Apúlia	Esposende	Tradicional portuguesa	Arroz Gambas c/ Lagosta	
+75	Adega Popular	Fafe	Fafe	Regional	Vitela assada (lista de bons pratos)	Domingo
+76	Pinto da Costa	Fafe	Fafe	Regional	Vitela assada (lista de bons pratos)	Domingo à noite e 2ª feira
+77	Tasca do Ademar	S.Clemente de Silvares - Fafe	Fafe	Regional	Churrasco de Boi c/arroz malandro e Bacalhau na brasa.	Domingo
+78	Casa Outeirinho 	Famalicão	Famalicão	Tradicional portuguesa	Cabrito assado no forno 	Domingo à noite e 2ª feira
+79	Moutados de Baixo	Famalicão	Famalicão	Regional	Bacalhau à Devesa	Não encerra
+80	O Benfica 	Famalicão	Famalicão	Tradicional portuguesa	Cabrito assado no forno 	Domingo à noite e 2ª feira
+81	O Ferrugem	Famalicão	Famalicão	Variada	Menu degustação 	2ª feira
+82	O Serenata 	Joane	Famalicão	Cozinha inspiração Italiana 	Pastas 	Domingo
+83	O Tanoeiro 	Famalicão	Famalicão	Tradicional portuguesa	Rojões e Papas de Sarrabulho 	Domingo ao jantar
+84	Santa Quitéria	Felgueiras	Felgueiras	Tradicional portuguesa	Vitela/cabrito assados e grelhados diversos…	2ª feira
+85	Petisqueira Preguiça	Mós do DOURO	Foz Côa	Regional		Não encerra
+86	Clube Paraiso 	Pevidém	Guimarães	Tradicional portuguesa	Assados vários.	2ª feira
+87	ComRequinte	Guimarães	Guimarães	Peixe Fresco	Rodovalho Fresco / Marisco Fresco	
+88	Papa Boa	Guimarães	Guimarães	Moderna	Coxa de Porco Preto c/Gambas / Tamboril c/Ameijoas e molho de salsa	Domingo
+89	Picadeiro	Guimarães	Guimarães	Moderna	Pernil Assado no Forno / Folhado de Pato c/castanhas	Domingo à noite e 2ª feira
+90	S. Gião 	Moreira Conegos 	Guimarães	Regional	Polvo, Especialidades Caça , Entradas várias	2ª feira
+91	Templo da Gula	Guimarães	Guimarães	Cozinha Moderna	Espetada de Pescada c/Arroz de Gambas	2ª feira
+92	Aquapura Douro Valley	Lamego	Lamego	Tradicional portuguesa	Cabrito assado	3ª feira
+93	Quinta Ferra Bordão	Lamego	Lamego	Tradicional portuguesa	Cabrito assado	3ª feira
+94	Caçador	Lousada	Lousada	Tradicional portuguesa	Naco de vitela assado na brasa	2ª feira
+95	Pitarisca	Lousada	Lousada	Tradicional portuguesa	Cabrito assado no forno	Domingo
+96	Visconde	Lousada	Lousada	Tradicional portuguesa		Domingo à noite
+97	Choupada 5 Coroas  ( Rest.Típico)	Macedo Cavaleiros	Macedo Cavaleiros	Tradicional portuguesa	Posta e Rodeao assados na brasa	Não encerra
+98	O Montanhês	Macedo Cavaleiros	Macedo Cavaleiros	Tradicional portuguesa	Cabrito assado na brasa                           Sortido de carnes assadas c/ fumeiro	Não encerra
+99	Saldanha	Macedo Cavaleiros	Macedo Cavaleiros	Regional		Não encerra
+100	Pensão Magalhães	Marco Canaveses	Marco Canaveses	Tradicional portuguesa	Arroz de Forno lenha e Anho	
+101	Plátano	Marco Canaveses	Marco Canaveses	Tradicional portuguesa	Carne Arouquesa+ Anho	2ª feira
+102	Ponte de Pedra	Marco Canaveses	Marco Canaveses	Tradicional portuguesa	"Bacalhau c/ broa; Picanha ; Cabrito, Menu ( diversos pratos s/ limite)"	Não encerra
+103	Quinta da Lama	Vila Meã	Marco Canaveses	Regional	"Anho assado com chouriço; bife com castanhas; lombo à lagar; por encomenda: picanha"	Domingo e feriados
+104	Quinta do Mosteirô	Marco Canaveses	Marco Canaveses	Regional	Anho no forno	
+105	Solar do Muro	Marco Canaveses	Marco Canaveses	Tradicional portuguesa	"Bacalhau à Solar; Anho assado"	2ª feira
+106	Adega do Sossego	Melgaço	Melgaço	Regional	Naco grelhado ,Cozido á portuguesa com carnes caseiras, lampreia	2ª feira
+107	Panorama	Melgaço	Melgaço	Regional	Entradas variadas, lampreia , sável do rio Minho e naco grelhado	2ª feira
+108	O Mirandês	Miranda do Douro	Miranda do Douro	Regional		Domingo ao jantar
+109	A Adega Regional	Mirandela	Mirandela	Regional		Domingo ao jantar
+110	Flor de Sal	Mirandela	Mirandela	Regional	"Trio de porco bísaro; Peixe no Sal"	2ª feira
+111	Maria Rita	Romeu	Mirandela	Tradicional portuguesa	Açorda de espargos e bacalhau à Maria Rita	2ª feira
+112	O Grés	Mirandela	Mirandela	Tradicional portuguesa	"Bacalhau à Grés; posta Mirandesa"	
+113	A Lareira	Mogadouro	Mogadouro	Regional		2ª feira
+114	Lagar	Moncorvo	Moncorvo	Regional	Posta Mirandesa	Não encerra
+115	O Artur	Carviçais	Moncorvo	Regional	Posta Mirandesa -Cabrito Assado	2ª feira
+116	Adega Regional - Os Setes Condes	Mondim de Basto	Mondim de Basto	Regional	O cozido. O cabrito. A vitela assada/forno. A cabidela. 	Não encerra
+117	O Transmontano	Mondim de Basto	Mondim de Basto	Regional	Javali, As couves, Os milhos, O cozido, O cabrito/forno. Vitela assada/Forno,  A cabidela, A feijoada à transmontana.	Não encerra
+118	Tasca da Tia Alice	Mondim de Basto	Mondim de Basto	Tradicional portuguesa	Enchidos e Petiscos	Não encerra
+119	Casa de Padornelos (Taberna)	Montalegre	Montalegre	Regional	Vários - sobremesa rabanadas	Não encerra (por marcação)
+120	Nevada	Montalegre	Montalegre	Regional		4ª feira
+121	Sol e Chuva	Montalegre	Montalegre	Tradicional portuguesa		Não encerra
+122	A Casa do Baixinho	Paredes	Paredes	Tradicional portuguesa	Bacalhau folhado com creme 	Domingo
+123	A Cozinha da Terra	Paredes	Paredes	Tradicional portuguesa	"Bacalhau com Broa; Cabrito assado no formo"	2ª feira
+124	Conselheiro	Paredes de Coura	Paredes de Coura	Regional	"Bacalhau à Cons; Cozido à Cons.; Arroz de lampreia; Trutas de escabeche; Pica no chão; cabrito"	Domingo à noite e 2ª feira
+125	O Conde	Pedras Salgadas	Pedras Salgadas	Tradicional portuguesa	Cozinha típica Portuguesa, com cabrito assado.	Não encerra
+126	Miradouro	Penafiel	Penafiel	Tradicional portuguesa	Lampreia, Cabrito e Bacalhau	
+127	O Moinho do Moleiro	Paço Sousa	Penafiel	Tradicional portuguesa	Presunto/broa e vinho.Cozido Portuguesa	4ª feira 
+128	O Ramirinho	Penafiel	Penafiel	Tradicional portuguesa	Assados	2ª feira a partir das 19h
+129	O Moinho	Campo do Corrô	Ponte da Barca	Regional	Panados de polvo com arroz de legumes e feijão	3ª feira
+130	A Carvalheira	Ponte de Lima	Ponte de Lima	Regional	"Cabrito assado; Bacalhau c/ broa"	2ª feira (Férias de 11 a 31 Out.)
+131	Beco das Selas 	Ponte de Lima	Ponte de Lima	Regional		Sábado
+132	Bocados	Ponte de Lima	Ponte de Lima	Regional	"Lampreia e sável; Bacalhau espiritual; Arroz de sarrabulho"	Domingo
+133	Cozinha Velha	Ponte de Lima	Ponte de Lima	Tradicional portuguesa	Cabrito e Leitão assado	3ª feira
+134	Encanada	Ponte de Lima	Ponte de Lima	Tradicional portuguesa		Não encerra
+135	O Açude	Arcozelo	Ponte de Lima	Regional		Domingo à noite e 2ª feira
+136	O Bodegão	Póvoa de Varzim	Póvoa de Varzim	Tradicional portuguesa	Arroz Cabidela, Sardinhas, Peixe Grelhado	2ª feira
+137	O Costa	Póvoa de Varzim	Póvoa de Varzim	Tradicional portuguesa	Arroz de tamboril e açorda de marisco	3ª feira
+138	O Dhalia	Póvoa de Varzim	Póvoa de Varzim	gourmet	Bife de veado	Não encerra
+139	O Farol	Póvoa de Varzim	Póvoa de Varzim	Peixes e Mar	Mariscos e Snacks diversos	
+140	O Firmino	Póvoa de Varzim	Póvoa de Varzim	Tradicional portuguesa	Sardinha, Peixe Grelhado, Bacalhau	3ª feira
+141	O Marinheiro	Póvoa de Varzim	Póvoa de Varzim	Peixes e Mar	Mariscos e Peixe Grelhado/Assado	
+142	O Patio	Póvoa de Varzim	Póvoa de Varzim	Tradicional portuguesa	Peixe, Arroz Cabidela	
+143	O Zé das letras	Povoa de Varzim	Póvoa de Varzim	Tradicional portuguesa	Pá de Cabrito e de Porto e Bacalhau à Zé	Domingo
+144	Quebra-Mar	Póvoa de Varzim	Póvoa de Varzim	Peixes e Mar	Peixes e Mariscos	2ª feira
+145	Castas e Pratos	Régua	Régua	Cozinha Moderna		Não encerra
+146	Cêpa Torta	Alijó	Régua	Regional	Cacho de Porco Bizaro	3ª feira
+147	Douro In	Régua	Régua	Cozinha requintada	Bacalhau à Douro In	
+148	Qta. da Romaneira dos Sonhos	Alijó	Alijó	Tradicional portuguesa		Domingo à noite e 2ª feira
+149	Pelourinho	Alijó	Régua	Variada		Não encerra
+150	Quinta de São Domingos	Régua	Régua	Variada		Não encerra
+151	Rabelo - Vintage House	Pinhão	Régua	Cozinha requintada	Posta à mirandeza	Não encerra
+152	Repentina (Típico)	Vila Seca de Poiares	Régua	Tradicional portuguesa	Cabrito Assado	2ª feira
+153	Varanda da Régua	Régua	Régua	Regional		Não encerra
+154	Alice da Barraca	Resende	Resende	Tradicional portuguesa	Peixe do Rio, Arroz de Cabidela 	Não encerra
+155	Douro à Vista	Resende	Resende	Tradicional portuguesa	Cabrito Assado no Forno, Cozido á Portuguesa	2ª feira
+156	Douro Park Hotel	Resende	Resende	Tradicional portuguesa	Cabrito Assado no Forno, Cozido á Portuguesa	Não encerra
+157	O Forno ( Casa Regional )	S. João da Pesqueira	S. João da Pesqueira	Tradicional portuguesa		Não encerra
+158	Cá Te Espero	Rebordões	Santo Tirso	Petiscos Tipica Portuguesa	Cabrito assado no Forno a lenha/ Rojões á moda do Minho	2ª feira
+159	Solar do Burguês	Santo Tirso	Santo Tirso	Tradicional portuguesa	Especialidade Assados no Forno e petiscos variados	Não encerra
+160	O Abocanhado	Brufe	Terras de Bouro	Regional	Bacalhau com migas, Cabrito e vitela Barrosã	
+161	Flor do Ave	Trofa	Trofa	Tradicional portuguesa	Leitão	3ª feira
+162	O Beco 	Trofa	Trofa	Tradicional portuguesa	Bacalhau no Forno e Sarrabulho	2ª feira
+163	Tourigalo	Trofa	Trofa	Tradicional portuguesa	Especialidade de Grelhados (Carne e Peixe) 	Não encerra
+164	Ancoramar	V. Praia Âncora	V. Praia Âncora	Tradicional portuguesa	Peixe	5ª feira Inverno
+165	Portobello	V. Praia Âncora	V. Praia Âncora	Tradicional portuguesa		Não encerra
+166	Tasquinha do Ibraim	V. Praia Âncora	V. Praia Âncora	Tradicional portuguesa	Peixe	Não encerra
+167	Verdes Lírios	V. Praia Âncora	V. Praia Âncora	Tradicional portuguesa	Peixe	Não encerra
+168	Casa Álvaro	Valença	Valença	Tradicional portuguesa		2ª feira
+169	Pousada S. Teotonico	Valença	Valença	Tradicional portuguesa		2ª feira
+170	Restaurante Quinta do Prazo	Valença	Valença	Variada		Domingo à noite e 2ª feira
+171	Casa da Amoreira (Taberna)	Valpaços	Valpaços	Regional		Não encerra
+172	Casa do Ermeiro (Taberna)	Valpaços	Valpaços	Regional		Não encerra 
+173	Casa Mariana	Viana Castelo	Viana Castelo	Tradicional portuguesa		3ª feira
+174	O Camelo	Sta. Marta Portuzelo	Viana Castelo	Regional	"Arroz de cabidela; sarrabulho; bacalhau"	2ª feira 
+175	Darque Vila 	Darque	Viana Castelo	Internacional		2ª feira 
+176	O Espigueiro de Santoínho	Darque	Viana Castelo	Tradicional portuguesa		3ª feira
+177	Aquafalls Spa Hotel Rural	Vieira do Minho	Vieira do Minho	Requintada		Não encerra
+178	Taberna Valentim	Viana Castelo	Viana Castelo	Pratos Peixe	Peixe	Domingo
+179	Hotel Forte S. João Baptista	Vila do Conde	Vila do Conde	Requintada		-
+180	Le Fruit des Fondues	Vila do Conde	Vila do Conde	Fondues 	Fondues (sobremesa fondue chocolate) 	Só abre ao jantar e Domingo só ao almoço
+181	Le Villageois	Vila do Conde	Vila do Conde	Tradicional portuguesa	Espetos de pescada e camarão	2ª feira
+182	Pedra Alta	Vila do Conde	Vila do Conde	Marisco	Grelhado de marisco, bacalhau à pescador	
+183	Praiamar	Vila do Conde	Vila do Conde	Marisco	Picanha, espetada de marisco	
+184	Ramon	Vila do Conde	Vila do Conde	Tradicional portuguesa	"Cabrito assado no forno, tamboril;parrilhada de peixes e arroz à valenciana"	3ª feira
+185	Romando 	Vila do Conde	Vila do Conde	Requintada	Peixe fresco  e carne mirandesa, charolesa e barrosã. Carta de vinhos/Garrafeira	3ª feira
+186	S. Roque	Vila do Conde	Vila do Conde	Tradicional portuguesa	Cabrito no Forno e Filetes de pescada.	2ª feira
+187	Santana Hotel	Vila do Conde	Vila do Conde	Tradicional portuguesa	Bacalhau com brôa ou Posta Barrosã	Não encerra
+188	Os Lázaros	Carvalho de Egas	Vila Flor	Tradicional portuguesa	Naco (vitela) na Pedra, Açorda de Marisco	2ª feira
+189	Casa das Velhas	Vila Nova Cerveira	Vila Nova Cerveira	Variada		Domingo à noite e 2ª feira
+190	Casa do Lau	Vila Nova Cerveira	Vila Nova Cerveira	Tradicional portuguesa	Polvo à lagareiro e cabrito	5ª feira
+191	Costa do Sol	Estrada do Minho	Vila Pouca Aguiar	Regional	Assado de maronesa.	
+192	Adega Regional Passos Perdidos	Vila Real	Vila Real	Regional		Domingo à noite e 2ª feira
+193	Albergaria Rio Beça	Boticas	Vila Real	Regional		Domingo à noite
+194	Casa de Souto Velho (Taberna)	Chaves	Vila Real	Regional		Não encerra
+195	Chaxoila	Vila Real	Vila Real	Regional		Domingo
+196	Espadeiro	Vila Real	Vila Real	Variada		Domingo à noite e 3ª feira
+197	Estalagem Qtaª do Paço	Vila Real	Vila Real	Tradicional portuguesa	Bacalhau cozido com grão e cabrito assado no forno …	Não encerra
+198	Lameirão	Vila Real	Vila Real	Tradicional portuguesa	Tripas aos molhos	Não encerra
+199	Maria do Carmo	Vila Real	Vila Real	Tradicional portuguesa	Polvo Grelhado, Joelho da Porca, Arroz de Pato 	2ª feira
+200	Museu dos Presuntos	Vila Real	Vila Real	Tradicional portuguesa	Petiscos e fumeiro	Domingo
+201	O Barriguinha Cheia	Vila Real	Vila Real	Tradicional portuguesa		Não encerra
+202	O Mateus	Vila Real	Vila Real	Específica	Rodízio	Não encerra
+203	Ponte Romana	Sabrosa	Vila Real	Regional		Não encerra
+204	Terra da Montanha	Vila Real	Vila Real	Regional	Bacalhau assado/ Joelho de porco	Domingo à noite e feriados
+205	Churrasqueira Barros	Vila Verde	Vila Verde	Tradicional portuguesa	Espetada mista	Domingo
+206	Manjar do Mar	Braga	Vila Verde	Marisqueira	"Mariscos; Peixe grelhado e posta barrosã"	2ª feira
+207	Sevilhana	Braga	Vila Verde	Grelhados/ Pratos Sul Americanos	Parrilhada Argentina / Lombo grelhado	3ª feira
+208	Torres	Braga	Vila Verde	Tradicional portuguesa	Cabrito, Bacalhau	5ª feira
+209	Cidadela Transmontana	Vinhais	Vinhais	Regional	Pratos relacionados com caça e fumeiro.	Domingo
+210	Madre Garcia	Vinhais	Vinhais	Regional	Posta  Mirandesa	Sábado
+211	O Delfim	Vinhais	Vinhais	Regional	"Vitela no churrasco; variedade de fumeiro e caça."	Sábado
+212	Solar de Montemuro	Cinfães	Viseu	Regional	"Papas de perdiz; Vitela assada "	Não encerra
+213	Xisto	Vizela	Vizela	Regional	Folhados de aves 	2ª. feira
+214	Caetano	Alvarenga	Arouca	Tradicional portuguesa	Bife Alverenga	2ª feira
+215	Casa no Campo	Arouca	Arouca	Tradicional portuguesa	Vitela/cabrito	3ª feira
+216	Parlamento	Arouca	Arouca	Tradicional portuguesa	Vitela Arouquesa/Cabrito	3ª feira
+217	Quinta Novais	Arouca	Arouca	Tradicional portuguesa	Vitela Arouquesa	Não encerra
+218	Tasquinta Quinta	Arouca	Arouca	Tradicional portuguesa	Vitela Arouquesa/Cabrito	Não encerra
+219	Tasquinha Alentejana	Cucujães	Cucujães	Petiscos Regionais	Bifes touro bravo e feijoada de javali …	2ª feira
+220	Canastra	Espinho	Espinho	Tradicional portuguesa	Posta à Mirandesa e Chuletão Asturiano	Não encerra
+221	Casa Matos	Estarreja	Estarreja	Petiscos	Todos	Domingo
+222	Cozinha Velha 	Estarreja	Estarreja	Variada		Não encerra
+223	Marisqueira Tropical	Estarreja	Estarreja	Variada	Bacalhau à casa	Domingo
+224	Ao Forno	Rio Tinto	Gondomar	Tradicional portuguesa	Cabrito e vitela assados em forno de lenha	Domingo à noite e 2ª feira
+225	Margem d' Douro	Gondomar	Gondomar	Tradicional portuguesa	Bacalhau lagareiro e filetes pescada c/ arroz marisco	2ª feira
+226	Malheiro	Maia	Maia	Tradicional portuguesa	Vitela assada Forno	2ª feira
+227	O Fernando, Lda	Maia	Maia	Tradicional portuguesa	cabrito assado no forno …	Domingo à noite
+228	O Industrial	Maia	Maia	Tradicional portuguesa	Arroz de Tamboril e Cabrito no forno	Não encerra
+229	O Machado	Maia	Maia	Regional	"Entradas variadas; Vitela Assada à moda de Lafões"	2ª e 3ª feira
+230	Oficina São José 	Maia 	Maia 	Francesinhas	Francesinhas	Não encerra
+231	Quinta da Camposa  	Maia 	Maia 	Cozinha regional	Todos os pratos são muito bem recomendados	Não encerra
+232	A Cozinha da Maria	Leça da Palmeira	Matosinhos	Muito caseira	"Bacalhau com natas e Bifinhos com Champignon; Rosbife, Arroz de Polvo"	Domingo
+233	A Grade	Leça da Palmeira	Matosinhos	Churrasco	Todo o tipo de grelhados	3ª feira
+234	Açoreana	Matosinhos	Matosinhos	Tradicional portuguesa	Arroz Sarabulho, Bacalhau Açoreana	Domingo
+235	Arquinho do Castelo	Leça da Palmeira	Matosinhos	Tradicional portuguesa	Filetes de polvo, arroz de marisco e robalo ao sal	Domingo
+236	Avó Miquinhas	Leça da palmeira	Matosinhos	Tradicional portuguesa	Bacalhau com natas e arroz de tamboril	3ª feira
+237	Campo Alegre Mar	Leça Palmeira	Matosinhos	Tradicional portuguesa	Polvo Assado no Forno, Cabritinho Assado no Forno,Filetes Polvo	Domingo à noite e 2ª feira
+238	Casa da Eira	S. Mamede de Infesta	Matosinhos	Tradicional portuguesa	Arroz de Pato	Domingo à noite e 2ª feira
+239	D` Arroz	Leça da Palmeira	Matosinhos	Arroz	Todos os pratos são com arroz, existe vários tipos de arroz com os acompanhamentos que se pretender	Domingo à noite e 2ª feira
+240	Do Parque	Lavra	Matosinhos	Tradicional portuguesa	Bacalhau com broa, Cabrito no forno	Não encerra
+241	D'Oliva Al Forno	Matosinhos	Matosinhos	Italiana	Pastas, Pizzas e assados ao Fim de semana	2ª feira só ao almoço
+242	Flôr do Castelo	Leça da Palmeira	Matosinhos	Tradicional portuguesa	bacalhau com natas	2ª feira
+243	Mar na Brasa	Matosinhos	Matosinhos	Marisqueira	Arroz tamboril com camarão/ Arroz Marisco/Cataplana de Tamboril/Polvo no forno e grelhado	Não encerra
+244	Marquês D'avenida	S. Mamede de Infesta	Matosinhos	Tradicional portuguesa	Cabrito e polvo assado.	Não encerra
+245	Marujo	Matosinhos	Matosinhos	Marisqueira	Parrilhada Marisco, Robalo á Minhota, Cozido á Portuguesa	3ª feira
+246	Mauritania	Matosinhos	Matosinhos	Marisqueira	Mariscos Frescos, Arroz Marisco	4ª feira
+247	O Bem Arranjadinho	Leça da Palmeira	Matosinhos	Tradicional portuguesa	Arroz de tamboril, arroz à pescador, arroz de marisco e açorda de camarão	Domingo (excepto grupos)
+248	O Chanquinhas	Leça da Palmeira	Matosinhos	Tradicional portuguesa	Bacalhau à Chanquinhas, Pescada à marinheiro, cabrito assado	Domingo
+249	O Filipe	Matosinhos	Matosinhos	Peixe	Robalo ao Sal, Arroz Tamboril	Domingo
+250	O Palato	Matosinhos	Matosinhos	Tradicional portuguesa	Peixe Fresco, Arroz Marisco	Não encerra
+251	O Xarroco	Matosinhos	Matosinhos	Peixe	Peixe Galo com Açorda de Ovas, Rodovalho	2ª feira
+252	Os Lusíadas	Matosinhos	Matosinhos	Marisqueira	Mariscos Frescos 	Domingo
+253	Os Rapazes	Leça da Palmeira	Matosinhos	Tradicional portuguesa	Pescada à rapazes, arroz de pato à antiga	3ª feira
+254	Porto de Leitoes	Matosinhos	Matosinhos	Tradicional portuguesa	Leitao Bairrada, Cabrito Assado na Lenha, Espetada Mar	Domingo à noite e 2ª feira
+255	Proa	Matosinhos	Matosinhos	Marisqueira	Peixe e mariscos	Não encerra
+256	Sempr´Assar	Matosinhos	Matosinhos	Peixe	Peixe fresco/ grelhados	Não encerra
+257	Trattoria Romana	S. Mamede Infesta	Matosinhos	Italiana	Pastas	2ª feira
+258	Veleiros	Leça Palmeira	Matosinhos	 	Polvo Assado no Forno - Vol-au-vent - Açorda de camarão                    	Domingo
+259	A Marisqueira de Matosinhos	Matosinhos	Matosinhos 	Marisqueira	Açorda e Arroz de Marisco, Peixe grelhado e mariscos	4ª feira
+260	Adega Farmácia Campos	Matosinhos	Matosinhos 	Tradicional portuguesa	Bacalhau à farmácia/tripas à portuguesa	
+261	Baltazar-Assador Argentino	Matosinhos	Matosinhos 	Assador tipico	Carnes/Sushi-bar/Pastas	Não encerra
+262	Castanheira	Matosinhos	Matosinhos 	Tradicional portuguesa	Assados/Bacalhau	Domingo
+263	Castanheira - Antiga	Matosinhos	Matosinhos 	Tradicional portuguesa	Bacalhau à Castanheira	2ª feira
+264	Churrasqueira Mauricia	Matosinhos	Matosinhos 	Tradicional portuguesa	Bacalhau/Cabrito assado	4ª feira
+265	D Zeferino	Matosinhos	Matosinhos 	Tradicional portuguesa	Arroz marisco/rosbife à inglesa	2ª feira
+266	Esplanada Marisqueira (Antiga )	Matosinhos	Matosinhos 	Marisqueira	Arroz e Açorda Marisco/ Mariscos variados	2ª feira
+267	Gião	Matosinhos	Matosinhos 	Tradicional portuguesa	"Bife de cogumelos selvagens;Empada de caça;Massa fresca com gamba"	Domingo e feriados
+268	João Ratão	Matosinhos	Matosinhos 	Tradicional portuguesa	Fritada de peixe com arroz grelos/ Cabrito assado à padeiro/açorda de marisco	Não encerra
+269	La Bella Napoli	Matosinhos	Matosinhos 	Italiana	Massas/Piza	Domingo e feriados
+270	La Máfia - Restauração	Matosinhos	Matosinhos 	Italiana	Pastas	Não encerra
+271	Marisqueira Majara	Matosinhos	Matosinhos 	Marisqueira	Caldeirada de Peixe à fragateira/Cozinho à Portuguesa /Mariscos	4ª feira
+272	Mauritânea Real	Matosinhos	Matosinhos 	Marisqueira	Arroz Marisco/ Mariscos variados	Não encerra
+273	O Gaveto	Matosinhos	Matosinhos 	Marisqueira	"Arroz e Açorda Marisco; Bife Rolha, Peixe grelhado e mariscos"	3ª feira
+274	O Lusitano	Matosinhos	Matosinhos 	Tradicional portuguesa	Peixe Fresco	Domingo e feriados
+275	O Manel	Matosinhos	Matosinhos 	Tradicional portuguesa	Robalo ao sal/Arroz Marisco/Bacalhau com broa	Não encerra
+276	O Pescador	Matosinhos	Matosinhos 	Tradicional portuguesa	Peixe fresco	
+277	Sakura	Matosinhos	Matosinhos 	Oriental	Sushi e afins	Não encerra
+278	Salta-Ó-Muro	Matosinhos	Matosinhos 	Tradicional portuguesa	Arroz de polvo no forno/Caldeirada aos sábados	Domingo e feriados
+279	Sancho Panza	Matosinhos	Matosinhos 	Assador Ibérico	Carnes em terra do Mar	2ª feira
+280	D. Gomado	Oliveira de Azemeis	Oliveira de Azemeis	Tradicional portuguesa	Arroz de Pato e grelhados na brasa	Não encerra
+281	Feitoria dos Sentidos	Oliveira de Azemeis	Oliveira de Azemeis	Normal	Lombo de Novilho e massas	4ª feira
+282	A Cozinha de Maria Eugénia	Porto	Porto	Tradicional portuguesa	Cabrito e Cozido à Portuguesa	2ª feira
+283	A Cozinha do Manel	Porto	Porto	Tradicional portuguesa	Cabrito e Vitela Assados em Forno de Lenha, Filetes de Pescada Fresca com Arroz da Horta	Domingo
+284	A Cunha	Porto	Porto	Variada/ Gourmet	Vários 	Não encerra
+285	A Mascara	Porto	Porto	Fondue	Fondue	3ª feira
+286	A Regaleira	Porto	Porto	Tradicional portuguesa	Francesinha (1ª francesinha a ser confecionada no Porto), Tripas, Cozido..	Sábado
+287	A Taberna do Carregal	Porto	Porto	Tradicional portuguesa	Tripas à moda do Porto/Rojões/Bacalhau Lagareiro	Domingo
+288	A Tasquinha	Porto	Porto	Tradicional portuguesa	varios pratos	Domingo
+289	Abadia	Porto	Porto	Tradicional portuguesa	Especialidade Bacalhau, Tripas e Cabrito	Domingo
+290	Al Forno	Porto	Porto	Italiana	Pizzas	Não encerra
+291	Aliança	Valbom	Porto	Personalizada	Chateaubriand, Entrecot de Boi, Peixes Frescos, etc	Domingo
+292	Antunes	Porto	Porto	Tradicional portuguesa	Cozido à Portuguesa, Tripas à Portuguesa, Pernil ou Cabrito Assado no Forno	Domingo e feriados
+293	Armazém Pacheco	Porto	Porto	Tradicional portuguesa	Secretos de Porco Preto, Tripas à 5ª f	Não encerra
+294	Assador Tipico	Porto	Porto	Grelhados	Bacalhau com broa/Polvo à Lagareiro	Não encerra
+295	Bar Triplex	Porto	Porto	Internacional	Tamboril em massa folhada	Domingo
+296	BB Gourmet Maiorca 	Porto	Porto	Tradicional portuguesa		Não encerra
+297	BB Gourmet Bull & Bear	Porto	Porto	Portuguesa e de Autor	"Bacalhau com açorda de poejos e hortelã;Pescada com crosta de azeitonas ; Carré de borrego com molho de vinhos"	Sábado e Domingo Almoço
+298	Boi Na Brasa	Porto	Porto	Brasileira e grelhados 	Rodizio e espetada de gambas	Não encerra
+299	Bom Retiro	Valbom	Porto	Tradicional portuguesa	Tem de tudo, é uma tasca típica.	3ª feira
+300	Brasserie Irene Jardim	Porto	Porto	Moderna	Carne de Porco Preto Alentejana/Medalhões de Javali	Domingo
+301	Cafeína	Porto	Porto	"Portuguesa; Francesa"	"Lombinhos de porco preto com ervas de Provença e areado de castanha; Camarão Tigre Flambejado, Costeletas de Borrego em Chout, Tranche de Salmão com Cogumelos e Legume, Tranche de Salmão com Cogumelos e Legumes"	Não encerra
+302	Campo Alegre	Porto	Porto	Internacional	Migas com Entrecosto,Moamba Galinha,Bife Crioula	Não encerra
+303	Capoeira	Porto	Porto	Tradicional portuguesa	"Filetes de Polvo com arroz do mesmo; Bacalhau Assado."	Domingo  
+304	Casa Agrícola	Porto	Porto	Tradicional portuguesa	"Bife Pimenta;Bacalhau com migas de coentros"	Domingo
+305	Casa Aleixo	Porto	Porto	Tradicional portuguesa	Filetes de Pescada e de Polvo com arroz de polvo, Lombo de Porco Assado	Domingo e feriados
+306	Casa do Martinho	Porto	Porto	Tradicional portuguesa	Polvo	2ª feira
+307	Casa Nanda	Porto	Porto	Tradicional portuguesa	Arroz de tomate	Domingo à noite e 2ª feira
+308	Chalandra	Matosinhos	Porto	Peixe/Marisco	Sopa de Peixe, Camarão da Costa	Domingo
+309	Chocolati	Porto	Porto			Domingo
+310	Clube do Sushi	Porto	Porto	Japones e Italiano	Sushi, Massas, Pizzas	Domingo
+311	Cozzza Rio	Porto	Porto	Cozinha de autor	Delicia de Gambas	Domingo e 2ª feira à noite
+312	Cufra	Porto	Porto	Cervejaria	Mariscos/Francesinhas e afins	2ª feira
+313	Degrau do Castelo	Leça da Palmeira	Porto	Tradicional portuguesa	Bacalhau	2ª feira
+314	Degrau Cha	Porto	Porto	Mediterrânica	Diversos	Domingo
+315	do Peixe	Porto	Porto	Peixe	Peixe	2ª feira
+316	Fernando	Porto	Porto	Tradicional portuguesa	Peixe	Não encerra
+317	Foz Velha	Porto	Porto	Tradicional portuguesa	Menu de degustação	Domingo e 2ª feira à noite
+318	Gardens	Porto	Porto	Internacional		Domingo à noite e 2ª feira
+319	Ginjal	Porto	Porto	Tradicional portuguesa	Tripas à Ginjal e Bacalhau à Ginjal	Domingo à tarde
+320	Grade	Porto	Porto	Tradicional portuguesa	"Bacalhau com broa; Lampreia; Sável"	Domingo
+321	Guernica	Porto	Porto	Vegetariano	Salada verde com queijo de cabra gratinado, Bruscheta de Tomate e mozzarella com manjericão, Spring rolls de caranguejo, Presunto Bellota Joselito, Atum marinado	3ª feira
+322	Kool	Porto	Porto	Mediterrânica	Risotto com tinta de choco	Domingo e 2ª
+323	Museu Serralves 	Porto	Porto	Internacional	Robalo com cogumelos salteados, Tornedó com espinafres e molho de, Trouxa de chèvre com tomate e mel	Domingo e 2ª feira
+324	O Buraco	Porto	Porto	Caseira	Cozido à portuguesa	Domingo
+325	O Carteiro 	Porto	Porto	Tradicional portuguesa	Folhado de caça	Domingo
+326	O Cometa	Porto	Porto	Cozinha de autor	Peito de pato com molho menta	Domingo
+327	O Escondidinho	Porto	Porto	Tradicional portuguesa	Bacalhau e Tornedó à Escondidinho e Tripas	Não encerra
+328	Oporto Restaurante	Porto	Porto	Tradicional portuguesa	Bacalhau em massa folhada, Filetes de pescada recheados, Rosbife do lombo.	Domingo
+329	Portucale	Porto	Porto	Portuguesa e Internacional c/toque francês	"Mil folhas foie gras de ganso c/trufas; Lombo boi flamejado c/molho de miscaros; Bacalhau à marinheiro"	Encerra só na Noite Natal
+330	Rhino	Porto	Porto	Internacional		
+331	Rogério do Redondo	Porto	Porto	Tradicional portuguesa	Bacalhau cozido com grão e cabrito assado no forno …	Domingo
+332	Sessenta Setenta	Porto	Porto	Cozinha de autor	Sobremesa: Pêra glacé	2ª feira ao almoço
+333	Shis	Porto	Porto	"Mediterrânica;Japonesa"	"Pescada escalfada com Edamame e azeite de manjeronas; Sushi"	Não encerra
+334	Soho Sushi	Porto	Porto	Japonesa	Sushi	Domingo
+335	Sopa de Letras	Porto	Porto	Internacional		Encerra sábado e feriados ao almoço e domingo
+336	Terra	Porto	Porto	Mediterrânica	Espetada de vieiras e tamboril com molho de rosmaninho	Não encerra
+337	Tripeiro	Porto	Porto	Tradicional portuguesa	Cozido à portuguesa, Tripas e Filetes de Polvo	Domingo
+338	Varanda do Sol	Porto	Porto	Pizzaria	Pizzas e Lasanha	3ª feira ao almoço
+339	Casa do Morgado	S João Madeira	S J Madeira			2ª feira
+340	5 Amigos	V N Gaia	V N Gaia		Bacalhau à 5 Amigos	5ª feira
+341	A Margem	V N Gaia	V N Gaia	Tradicional portuguesa	Peixe	Não encerra
+342	Cantinho Cabrito	V N Gaia	V N Gaia	Tradicional portuguesa	Cabrito e vitela assados em fornos de lenha	Domingo à noite
+343	Casa Branca	V N Gaia	V N Gaia	Tradicional portuguesa	Bacalhau	2ª feira
+344	D. Luis	V N Gaia	V N Gaia	Tradicional portuguesa	Bifinhos com cogumelos	2ª feira
+345	Mar à Vista	V N Gaia	V N Gaia	Tradicional portuguesa	Arroz de marisco	Não encerra
+346	Quinta da Boeira	V N Gaia	V N Gaia	Tradicional portuguesa		Domingo
+347	Rota dos Petiscos	V N Gaia	V N Gaia	Tradicional portuguesa	Petiscos	Domingo
+348	A Grelha	V.N.Gaia	V.N.Gaia	Tradicional portuguesa	"Espetada de gambas; Grelhado misto"	2ª feira
+349	Avó Cana	V N Gaia	V.N.Gaia	Tasca Tipica	Comida tradicional. Premiada	2ª feira
+350	La Dolce Itália	V.N.Gaia	V.N.Gaia	Portuguesa e italiana	Grelhado Misto e Misto de Massas	3ª feira
+351	Manuel Redondo	Lever	V.N.Gaia	Regional		2ª feira
+352	Tainha	V N Gaia	V.N.Gaia		Assados	3ª feira
+353	Mirafreita	Vale de Cambra	Vale de Cambra	Tradicional portuguesa	Cabrito e vitela assada	Não encerra
+354	Toca da Formiga	Ermesinde	Valongo	Tradicional portuguesa	Peixe fresco/bacalhau à casa e arroz de pato	Sábado e Domingo
+355	Casa Vidal	Agueda	Agueda	Tradicional portuguesa	Leitão	2ª feira
+356	Centenário	Aveiro	Aveiro	Tradicional portuguesa		2ª feira
+357	Marinhas	Aveiro	Aveiro	Tradicional portuguesa	Caldeirada de enguias/Peixe grelhado/Ensopado de peixe	Não encerra
+358	O Telheiro	Aveiro	Aveiro	Tradicional portuguesa		Sábado
+359	Salpoente	Aveiro	Aveiro	Tradicional portuguesa	"Espetada de mexilhão; Arroz de marisco; Caril de gambas     "	Domingo 
+360	Hotel Colina do Castelo	Castelo Branco	Castelo Branco	Variada	"Cabrito à Colina; Bacalhau na brasa"	Não encerra
+361	Kalifa	Castelo Branco	Castelo Branco	Tradicional portuguesa	Caldeirada de peixe, Lombo porco assado	Não encerra
+362	O Convento	Castelo Branco	Castelo Branco	Tradicional portuguesa	"Cabrito; Arroz de pato"	3ª feira
+363	Srª Mércoles	Castelo Branco	Castelo Branco	Grelhados	Vários pratos de peixe, açorda e arroz de marisco	2ª feira
+364	A Taberna	Coimbra	Coimbra	Tradicional portuguesa	Cabrito assado, Bacalhau assado, Posta Mirandesa	Domingo
+365	Arco Íris	Coimbra	Coimbra	Regional	Terra e Mar / Espetadas	Não encerra
+366	D Duarte	Coimbra	Coimbra	Variada	Polvo à lagareiro	
+367	Giuseppe & Joaquim	Coimbra	Coimbra	Italiana	Nicolino	
+368	Praça do Marisco	Coimbra	Coimbra	Marisqueira	Marisco/Polvo à lagareiro	2ª feira
+369	Zé Manel dos Ossos	Coimbra	Coimbra 	Tradicional portuguesa	Ossos, barriguinha assada com arroz de feijão	
+370	O Cabritino	Condeixa	Condeixa	Regional	Cabrito à região	
+371	Cá-te-Espero	Covilhã	Covilhã	Tradicional portuguesa		
+372	António F.M.Andrade	Figueira de Castelo Rodrigo	Figueira de Castelo Rodrigo	Tradicional portuguesa	Polvo e bacalhau à lagareiro	Não encerra
+373	Bago D'ouro	Barca d'alva	Figueira de Castelo Rodrigo	Tradicional portuguesa	Migas de peixe	Não encerra
+374	Estalagem Falcão de Mendonça	Figueira de Castelo Rodrigo	Figueira de Castelo Rodrigo	Tradicional portuguesa	Bacalhau gratinado	Não encerra
+375	O Carrocel da Bebé	Figueira Foz	Figueira Foz	Tipica do mar	"Choras; Linguas bacalhau; massadas"	2ª feira
+376	O Adamastor	Figueiró da Serra	Gouveia	Regional e Internacional	"Bacalhau à Adamastor, Arroz de polvo, Cabrito da Serra (tem semanalmente o ""Menu Adamastor"" com 2 pratos - peixe e carne  "	3ª e 4ª feira
+377	O Julio	Gouveia	Gouveia	Regional	Arroz de carqueja, Feijoca à pastor e ensopado cabrito com míscaros	3ª feira
+378	Lá em Casa	Gouveia	Gouveia	Regional e Internacional	Carne Barrosã, Crepes de camarão e polvo grelhado. Sobremesas - Crepes c/gelado e pêra em massa folhada	Domingo à noite e 2ª feira
+379	Colmeia/MAX	Guarda	Guarda	Tradicional portuguesa	Polvo à lagareiro/Cabrito assado/Nacos	Domingo
+380	Dom Garfo	Guarda	Guarda	Tradicional portuguesa	Cabrito e Bacalhau	
+381	O Caçador	Guarda	Guarda	Marisco	Marisco	2ª feira
+382	O Sardinha	Guarda	Guarda	Marisco	Marisco	3ª feira
+383	Galeria Aquaríus	Guarda	Guarda	Tradicional portuguesa	Peixe grelhado	2ª feira
+384	Clube Vela Costa Nova	Ilhavo	Ilhavo	Regional	Peixe e mariscos/ tamboril	
+385	O Canastra do Fidalgo	Ilhavo	Ilhavo	Tradicional portuguesa	Peixe e marisco	2ª feira
+386	Praia do Tubarão	Praia da Costa Nova	Ílhavo	Regional	Caldeirada de enguias+mariscos+ensopado de rodovalho	2ª feira
+387	Casinha Velha	Marrazes	Leiria	Tradicional portuguesa	Cabrito no Forno/Bacalhau c/natas	Domingo à noite e 3ª feira
+388	Cervejaria Marisqueira César	Leiria	Leiria	Marisqueira	Mariscos diversos	2ª feira e 3ª feira ao almoço
+389	Luna	Leiria	Leiria	Francesa	Aiguillette de Novilho c/ molho mostarda / Magret de pato	Sábado ao almoço
+390	Matilde Noca	Leiria 	Leiria	Tradicional portuguesa	"Bacalhau na telha; bacalhau c/ natas "	Domingo
+391	Morgatões	Boavista	Leiria	Leitão 	Leitão assado	2ª feira
+392	O Casarão	Azoia	Leiria	Tradicional portuguesa	Espetadas / Medalhões de novilho	2ª feira
+393	Saloon	Paúl / Ortigosa	Leiria	Tradicional portuguesa	Espetadas / Bacalhau à lagareiro	Não encerra
+394	Tromba Rija	Marrazes	Leiria	Tradicional portuguesa	Bacalhau assado/Fritada	Domingo à noite e 2ª feira
+395	Casa Velha	Lousã	Lousã	Tradicional portuguesa		4ª feira
+396	O Burgo	Lousã	Lousã	Tradicional portuguesa		2ª feira
+397	Casa do Ermitão	Mangualde	Mangualde	Regional	Terra / Mar	2ª feira
+398	O Valério	Mangualde	Mangualde	Tradicional portuguesa	Cabrito assado no forno	Domingo
+399	Os Patinhos	Montemor-o-Velho	Montemor-o-Velho	Tradicional portuguesa	Arroz de pato	2ª feira
+400	Luciana	Sejães	Oliveira de Frades	Regional	Bacalhau à lagareiro e cabrito assado(encomenda)	
+401	Lago Verde	Pedrogão Grande	Pedrogão Grande	Tradicional portuguesa	Lampreia, Bucho e Maranho	2ª feira
+402	O Penedo	Pedrogão Grande	Pedrogão Grande	Tradicional portuguesa	"Migas; Cabrito assado"	3ª feira
+403	Pedra do Moinho	Serra da Atalhada	Penacova	Regional	Cabrito no forno e lampreia	Não encerra
+404	Robalo	Sabugal	Sabugal	Regional	Cabrito assado na brasa	Domingo
+405	Ponte Velha	Sertã	Sertã	Tradicional portuguesa	Cabrito / Maranho e bucho/ sopa de peixe	2ª feira
+406	Santo Amaro	Sertã	Sertã	Tradicional portuguesa	Cabrito / Maranho e bucho/ sopa de peixe	4ª feira
+407	Quinta do Barco	Sever do Vouga	Sever do Vouga	Tradicional portuguesa	Espetada Polvo c/ Carnes, Lampreia, Feijoada no Forno, etc	2ª feira
+408	Alto Douroana	Soure	Soure	Grelhados	Sopa do Mar/Polvo à lagareiro	Domingo e 2ª feira ao jantar
+409	Os 3 Pipos	Tonda	Tondela	Regional		4ª-feira
+410	Estalagem Portas De Ródão	V V Rodão	V V Rodão	Tradicional portuguesa	Sopas de peixe 	Não encerra
+411	JJ	Fratel	V V Rodão	Variada	Sopas de Boda	Domingo
+412	Nazaré & Filhas	Cerejal	V V Rodão	Tradicional portuguesa	Sopas de peixe e ensopado de cabrito	2ª feira
+413	Vale Mourão	Foz do Cobrão	V V Rodão	Tradicional portuguesa	Arroz de lagostins do rio	2ª feira
+414	Cantinho do Tito	Abraveses 	Viseu	Tradicional portuguesa	Cabidela de galo	Domingo
+415	Casa Arouquesa	Viseu	Viseu	Carne Vitela Arouquesa	Vitela assada e Bife de vitela grelhado e frito	Domingo ao jantar
+416	Muralha da Sé	Viseu	Viseu	Tradicional portuguesa	"Polvo com migas/ à lagareiro; Cabrito e vitela assada"	Domingo à noite e 2ª feira
+417	O Camponês	Sátão	Viseu	Tradicional portuguesa	Cabrito assado no forno	
+418	O Fumeiro	Penalva do Castelo	Viseu	Enchidos e queijos		4ª feira. Só serve jantares
+419	O Martelo	Silgueiros	Viseu	Regional		
+420	Retiro Manhosa	Viseu	Viseu	Tradicional portuguesa	Cabrito grelhado	4ª feira
+421	Santa Luzia	Vermun- Campo	Viseu 	Regional	Polvo com migas/à lagareiro, cabrito, cabidela de galo	
+422	Eira da Bica	Paços Vilharigues	Vouzela	Regional	Vitela à Lafões	2ª feira
+423	Qtª da Cavada	Vouzela	Vouzela	Regional	Vitela à Lafões	2ª feira
+424	O Cabaço	Pego	Abrantes	Típica portuguesa	Bife à cabaço	Não encerra
+425	Sabores do Pinhal	Abrantes	Abrantes	Regional	"Maranhos e Bucho; Sopa de peixe"	4ª feira
+426	Vera Cruz	Rossio ao Sul do Tejo	Abrantes	Típica portuguesa	Bacalhau à Vera Cruz	Domingo à noite e 2ª feira  
+427	O Caracol	Alcanena	Alcanena	Regional	Caracóis em tacho de barro com batatas e feijão à 5ª feira e domingo	2ª feira
+428	Antonio Padeiro	Alcobaça	Alcobaça	Tipica Portuguesa	Frango na púcara	Domingo à noite e 2ª feira  
+429	Marisqueira Tonico	Paredes da Vitoria	Alcobaça	Marisqueira	Marisco	2ª feira
+430	Quinta do Pinheiro	Alcobaça	Alcobaça	Tipica Portuguesa		2ª feira
+431	Restaurante Maria José	Alcobaça	Alcobaça	Grelhados	Grelhados 	2ª feira
+432	Serrazina	Benedita	Alcobaça	Tradicional portuguesa	"Peixe Fresco; Bacalhau grelhado com batata a murro"	Domingo
+433	Aliança do Oeste	Carregado	Alenquer	Tradicional portuguesa	Bacalhau assado	Domingo
+434	Casa d'Albarrois	Alenquer	Alenquer	Grelhados	Grelhados 	2ª feira
+435	O Fuso	Arruda Vinhos	Arruda dos Vinhos	Tradicional portuguesa	Bacalhau assado e costeletas assadas	Não encerra
+436	Aveiramariscos	Aveiras Cima	Azambuja	Marisqueira	Mariscos e Peixe	2ª feira
+437	Oficina dos Sabores	Aveiras Cima	Azambuja	Grelhados	Grelhados	Não encerra
+438	Passodoble	Azambuja	Azambuja	Ribatejana	Grelhados - Manta Saloia	Domingo
+439	Pôr do Sol 2	Aveiras Cima	Azambuja	Tradicional portuguesa	Bacalhau, Vitela.	Não encerra
+440	A Mãe d' Àgua	Bombarral	Bombarral	Tradicional portuguesa		2ª feira
+441	O Lagar	Bombarral	Bombarral	Tradicional portuguesa		2ª feira
+442	A Telha	Cadaval	Cadaval	Tradicional portuguesa		2ª feira
+443	Manjar dos Lobos	Cadaval	Cadaval	Tradicional portuguesa		2ª feira
+444	Sabores da Aldeia	Cadaval	Cadaval	Tradicional portuguesa	Grelhados / Cozido à portuguesa ao Domingo	2ª feira ao jantar
+445	A Lareira	Caldas Rainha	Caldas Rainha	Tradicional portuguesa	Cataplana	3ª feira
+446	Adega do Albertino	Caldas Rainha	Caldas Rainha	Trasmontana	Polvo/massinha com bacalhau	Domingo à noite e 2ª feira 
+447	Sabores D'Italia	Caldas Rainha	Caldas Rainha	Italiana		2ª feira
+448	Solar dos Amigos	Caldas Rainha	Caldas Rainha	Transmontana	Polvo/Grelhados	4ª feira
+449	Batalhoz	Cartaxo	Cartaxo	Tradicional portuguesa	Grelhados	2ª feira
+450	Pinto	Entroncamento	Entroncamento	Tradicional portuguesa	Carne de porco em pau de louro, Migas de bacalhau com camarão	3ª feira
+451	Central	Golegã	Golegã	Tradicional portuguesa	Bife à Central	Não encerra
+452	Lusitanus	Golegã	Golegã	Tradicional portuguesa	Boi no tacho, Arroz de Aba	3ª feira
+453	Dom Carlos	Lagoa	Lagoa	Tradicional portuguesa	Bife à Regional e Arroz de lapas	Domingo
+454	Burro Velho	Batalha	Leiria	Tradicional portuguesa	Polvo à lagareiro	Não encerra
+455	Nau dos Corvos	Peniche	Leiria	Tradicional portuguesa	Peixe e Marisco	2ª Feira, excepto no Verão que não encerra.
+456	Toca do Texugo	Peniche	Leiria	Grelhados	Peixe Grelhado	2ª feira
+457	Chão do Prado   	Bucelas	Lisboa	Tradicional portuguesa	Bacalhau com broa ao Chão do Prado	Domingo e 2ª feira
+458	A Concha Saloia	Loures	Loures	Tradicional portuguesa	Arroz de cherne	Sábado
+459	Adega do Almirante	Ponte de Frielas	Loures	Tradicional portuguesa	Arroz de cabidela	Domingo ao Jantar
+460	Churrasqueira Ideal Loures	Loures	Loures	Grelhados	Cozido à portuguesa à 5ª feira	2ª feira
+461	Floresta	Moscavide	Loures	Tradicional portuguesa	Peixe ao sal ou escalado com batatas a murro. Cabrito ou vitela assados no forno. 	2ª feira
+462	Grelha do Miradouro	Loures	Loures	Tradicional portuguesa	"Parrilhada de Carne; Bacalhau à minhota"	Domingo
+463	Manjar Saloio	Manjoeira	Loures	Tradicional portuguesa		2ª feira
+464	O Almirante	Loures	Loures	Tradicional Portuguesa	Bife à Almirante e Bacalhau na broa	2ª feira
+465	O António	Bobadela	Loures	Tradicional Portuguesa	Peixe	Sábado à tarde e Domingo
+466	O Barrete Saloio 	Bucelas	Loures	Tradicional portuguesa	Cabrito assado forno	4ª feira
+467	O Casarão	Bucelas 	Loures	Tradicional portuguesa	Bacalhau à português e Chocos com tinta	3ª feira
+468	O Corcel	Flamenga	Loures	Tradicional portuguesa		Domingo
+469	O Forcado	Loures	Loures	Regional	Enguias fritas com açorda	2ª feira
+470	O Menino	Bucelas	Loures	Tradicional portuguesa	Costeleta de novilho	4ª feira
+471	O Tibério	Bucelas	Loures	Tradicional portuguesa	Rancho à moda de Lâmego e Cozido à portuguesa	3ª feira
+472	O Tucano	São João da Talha	Loures	Alentejana	Sopa de Cação, Capotes à Alentejana, Bifes à moda de Barrancos, Arroz de Cabidela, Coentrada de marisco	Domingo
+473	Retiro do Raposo 	Bucelas	Loures	Tradicional portuguesa	Costeleta saloia e sopa de cação	4ª feira
+474	Salero	Loures	Loures	Tradicional portuguesa	Bife à Salero	Não encerra
+475	Frutos do Mar	Lourinhã	Lourinhã	Marisco	Todo o tipo de Marisco	3ª feira
+476	O Pão Saloio	Lourinhã	Lourinhã	Tradicional portuguesa	Bacalhau assado	2ª feira
+477	Churrasqueira Povoense	Póvoa da Galega	Mafra	Churrasqueira	Carne grelhada e Bacalhau grelhado	Domingo.Jantar só 5ª, 6ª e Sáb.
+478	Fonte de Baco	Malveira	Mafra	Tradicional portuguesa	Pratos de Carne Grelhada e Peixes	3ª feira
+479	Melita	Malveira	Mafra	Tradicional portuguesa	"Bife de touro bravo; Bacalhau à lagareiro"	4ª e 5ª à noite
+480	Saloio	Malveira	Mafra	Tradicional portuguesa	Posta à saloio,  Polvo à lagareiro,  Espetadas	Domingo à noite e 2ª feira  
+481	A Tapada	Mafra	Mafra 	Especial Caça e não só	Gamo / Javali entre outros	Por marcação
+482	A Rosa dos Ventos	Nazaré	Nazaré	Peixe grelhado	Robalo/Filetes Peixe 	Não encerra
+483	Casa Sardinha	Nazaré	Nazaré	Casca	Peixe	2ª feira
+484	Mar Bravo	Nazaré	Nazaré	Marisqueira	Marisco	Não encerra
+485	São Miguel	Nazaré	Nazaré	Tradicional portuguesa	Peixe	Não encerra
+486	Taberna D'Adelia	Nazaré	Nazaré	Tradicional portuguesa	Cataplana / Peixe	Não encerra
+487	Alcaide	Óbidos	Óbidos	Tradicional portuguesa	Tornedó / Bacalhau	4ª feira e em Novembro
+488	Caldeirão	Óbidos	Óbidos	Tradicional portuguesa	Peixe / Carne / Grelhados	2ª feira
+489	Ilustre Casa de Ramiro	Óbidos	Óbidos	Tradicional portuguesa	Arroz de pato / cabrito	5ª feira
+490	Poço dos Sabores	Usseira	Óbidos	Tradicional portuguesa	Lasanha de marisco	2ª feira
+491	Cartaxeiro	Odivelas	Odivelas	Tradicional portuguesa	"Massada de cherne; Bacalhau à D. Ermelinda"	2ª feira
+492	Dom Eduardo	Odivelas	Odivelas	Tradicional portuguesa		2ª feira
+493	Jardim da Radial	Ramada	Odivelas	Marisqueira	Peixe grelhado	Não encerra
+494	Katimar	Odivelas	Odivelas	Tradicional Portuguesa	Bacalhau assado no forno com batata a murro	Não encerra
+495	Novo Edmundo	Odivelas	Odivelas	Tradicional portuguesa	Arroz de pato, Arroz de polvo e Naco na pedra.	 Domingo
+496	O Tacho da Memória	Odivelas	Odivelas	Tradicional portuguesa	Bacalhau na brôa	Domingo à noite e 2ª feira  
+497	Quinta do Douro	Odivelas	Odivelas	Tradicional portuguesa	Cabrito assado no forno, Cozido à portuguesa, Arroz de cabidela, Coelho frito, Arroz de lampreia.	2ª feira
+498	A Grelha	Fátima	Ourém	Tradicional portuguesa	Grelhados.	2ª feira
+499	Charbonada	Fátima	Ourém	Tradicional portuguesa		3ª feira
+500	Dom Gonçalo Hotel & SPA 	Fátima	Ourém	Tradicional portuguesa		Não encerra
+501	Fandanguita	Fátima	Ourém	Tradicional portuguesa		2ª feira
+502	O Rito	Ourém	Ourém	Tradicional portuguesa	Bacalhau assado, Cabrito assado e Arroz de pato	2ª feira
+503	Pestiqueira O Crespim	Fátima	Ourém	Tradicional portuguesa	Carnes grelhadas c/ Migas.	2ª feira
+504	Retiro dos Caçadores	Fátima	Ourém	Tradicional portuguesa	Pratos de caça.	4ª feira
+505	"Rodízio ""O Boi Preto"""	Ourém	Ourém	Rodízio Brasileiro	Rodízio	Domingo ao jantar
+506	Tia Alice	Fátima	Ourém	Tradicional portuguesa	Bacalhau com natas e cabrito 	2ª feira
+507	Cervejaria Mirandum	Peniche	Peniche	Marisco	Toda a qualidade de mariscos	4ª feira
+508	Paraiso do Foz	Atouguia 	Peniche	Tradicional portuguesa	Leitão	3ª feira
+509	Restaurante do Parque	Peniche	Peniche	Regional	Peixe Fresco	3ª feira
+510	Tasca do Joel	Peniche	Peniche	Tradicional portuguesa	Bacalhau c/ migas e outros pratos tipicos	Domingo à noite e 2ª feira
+511	Ti Maria dos Queijinhos	Porto de Mós	Porto de Mós	Grelhados	Grelhados/bacalhau assado	2ª feira
+512	A Floresta	Póvoa Sto Adrião	Póvoa Sto Adrião	Tradicional portuguesa	Borrego	2ª feira
+513	O Cantinho do João	Póvoa Sto Adrião	Póvoa Sto Adrião	Tradicional portuguesa	Bacalhau com migas e outros pratos regionais do Minho	2ª feira
+514	Pantanal	Póvoa Sto Adrião	Póvoa Sto Adrião	Tradicional portuguesa	Peixe Grelhado e bife à Pantanal	2ª feira
+515	Sabores Alentejanos	Póvoa Sto Adrião	Póvoa Sto Adrião	Tradicional portuguesa	Diversos Pratos, em particular alheira de mirandela	Não encerra
+516	A Fortaleza	Alto da Serra	Rio Maior	Tradicional portuguesa	Bacalhau à Lagareiro e Galinha com Nozes	2ª feira
+517	O Matias	Rio Maior	Rio Maior	Tradicional portuguesa	Grelhados na brasa, Bacalhau na Telha.	Domingo
+518	Recantão	Rio Maior	Rio Maior	Tradicional portuguesa	Pratos carne Barrosã.	2ª feira
+519	Solar do Sal	Rio Maior	Rio Maior	Churrasqueira	Frango e Grelhados mistos	Domingo à noite e 2ª feira  
+520	Terra Chã	Rio Maior	Rio Maior	Regional	Galo com nozes	5ª feira
+521	 A Grelha	Santarém	Santarém	Tradicional portuguesa	Espetadas de carne ou de lulas e gambas	2ª feira
+522	 Portas de Sol	Santarém	Santarém	Tradicional portuguesa		2ª feira
+523	Adega do Bacalhau	Santarém	Santarém	Tradicional portuguesa	Diversas especialidades de bacalhau	Domingo
+524	Almourol 	Vila Nova  Barquinha	Santarém	Tradicional portuguesa	Ensopado de enguias, lampreia e sável	2ª feira
+525	Chafarica da Torre	Santarém	Santarém	Moderna	Bifes	Domingo
+526	Jardim do Frango	Santarém	Santarém	Moderna	Bifes e outros	Não encerra
+527	Kook	Santarém	Santarém	Cafetaria e sushi 	Sushi e vários bifes	Domingo
+528	O Chicote	Santarém	Santarém	Tradicional portuguesa	Ribatejanos	4ª feira
+529	O Salsa	Santarém	Santarém	Tradicional portuguesa	Bacalhau com brôa	Domingo
+530	Restaurante O Malho	Santarém	Santarém	Tradicional portuguesa	Peixe	Domingo à noite e 2ª feira  
+531	Soltejo 	Vila Nova  Barquinha	Santarém	Tradicional portuguesa	Ensopado de enguias, lampreia e sável	2ª feira
+532	Tasquinha do Filipe	Alcanede	Santarém	Tradicional portuguesa	Açorda de cherne	Domingo
+533	Taverna do Quinzena	Santarém	Santarém	Tradicional portuguesa		Domingo
+534	Churrasqueira Oeste	Gozundeira	Sobral Monte Agraço	Tradicional portuguesa	Posta mirandesa	2ª feira
+535	Vilamanjar	Sobral Monte Agraço	Sobral Monte Agraço	Tradicional/Sofisticada		3ª feira
+536	A Lúria	Tomar	Tomar	Regional	Lampreia	Domingo à noite e 2ª feira  
+537	Bela Vista	Tomar	Tomar	Tradicional Portuguesa	"Caldeirada de peixe; Peixe fresco grelhado"	2ª feira
+538	Chico Elias	Tomar	Tomar	Tradicional Portuguesa	Coelho na abóbora, couves à Prior e bacalhau com carne	3ª feira
+539	Manjar dos Templários	Tomar	Tomar	Tradicional Portuguesa	"Cabrito ou leitão assado; feijoada de marisco"	4ª feira
+540	O Picadeiro	Tomar	Tomar	Tradicional Portuguesa	"Bacalhau à Narcisa; Cozido à portuguesa; cabrito assado no forno"	Feriados ao jantar
+541	O Tabuleiro	Tomar	Tomar	Tradicional Portuguesa	"Arroz de peixe; Picadinha à tabuleiro"	Domingo
+542	Artur's	Torres Novas	Torres Novas	Tradicional Portuguesa	Caril de gambas e bacalhau com broa	Domingo e 2ª feira
+543	Espalha Brazas	Torres Novas	Torres Novas	Tradicional Portuguesa	Grelhados	Não encerra
+544	Seven	Torres Novas	Torres Novas	Tradicional Portuguesa	Peixe fresco	2ª feira
+545	Solar da Valada	Torres Novas	Torres Novas	Tradicional Portuguesa	Bacalhau com natas, pataniscas, cozido à portuguesa, iscas.	Domingo
+546	Clube Naval Praia da Assenta	São Pedro da Cadeira (Barril)	Torres Vedras	Peixe Fresco	Peixe fresco	3ª  feira
+547	Os Severianos	Campelos	Torres Vedras	Tradicional Portuguesa		3ª feira
+548	Cantinho da Adanaia	Alverca	Vila Franca de Xira	Tradicional Portuguesa	Bacalhau assado, Polvo à lagareiro	Não encerra
+549	Novo Viveiro	Alverca	Vila Franca de Xira	Tradicional Portuguesa	Arroz de marisco e vitela mirandesa	Sábado
+550	O Capitólio	Forte da Casa	Vila Franca de Xira	Tradicional Portuguesa	Posta de vitela, cataplana de garoupa e massa lagosta	Domingo ao jantar
+551	Os Magnificos	Alverca	Vila Franca de Xira	Tradicional Portuguesa	Bacalhau à Magnificos, Açorda de marisco, cabrito 	3ª feira
+552	Os Magnificos 	Alverca	Vila Franca de Xira	Tradicional Portuguesa	Bacalhau à lagareiro, Açorda de marisco, Cabrito, Arroz de pato	3ª feira
+553	Panorama	Quinta da Piedade	Vila Franca de Xira	Peixe fresco	"Cataplana de cherne ou garoupa; Arroz ou massada de tamboril  c/ gambas, peixe  "	Domingo à tarde
+554	Solar do Morgado	Alverca	Vila Franca de Xira	Tradicional Portuguesa	Peixe fresco, especialidades	Domingo ao jantar
+555	As Colunas	Amadora	Amadora	Regional	Caça, Arroz de sável	5ª feira
+556	Embaixada dos sabores	Amadora	Amadora	Variada	Picanha, porco preto, polvo à lagareiro, bacalhau na cataplana	Não encerra
+557	Mano´s Barros	Damaia	Amadora	Tradicional portuguesa		3ª feira
+558	O Farol 	Reboleira	Amadora	Tradicional portuguesa	Grelhados	Não encerra
+559	Os Cunhados	Lisboa	Amadora	Tradicional portuguesa	Peixes Grelhados 	Sábado
+560	Páteo dos Leitões de Alfragide	Amadora	Amadora	Regional	Leitão	Domingo à noite e 2ª
+561	Piscinas Damaia	Amadora	Amadora	Variada	Cozido à portuguesa à 5ª feira	Domingo
+562	Fronteira (antiga Adega do Zé Manel)	Malveira da Serra	Cascais	Internacional	Espetada de polvo, polvo à lagareiro, bacalhau à lagareiro	2ª feira
+563	Arco Íris	Cascais	Cascais	Caseira	O Piano é muito bom, trata-se de uma tasca com mau aspecto	Domingo
+564	Casa do Victor	Alcabideche	Cascais	Tradicional portuguesa	Bacalhau à lagareiro      	4ª feira
+565	Cervejaria Luzmar	Cascais	Cascais	Tradicional portuguesa	"Arroz de marisco; Peixe"	2ª feira
+566	Choupana Gordinni	S.João Estoril	Cascais	Italiana	Bife à Gordinni, massas	2ª feira
+567	Churrasqueira Pintarola	S.D. Rana	Cascais	Caseira	Carnes grelhadas	3ª feira
+568	Cimas 	Estoril	Cascais	Diversa	Cherne no forno c/ ameijoas	Domingo
+569	Estoril Mandarim	Estoril	Cascais	Chinesa	Pato à Pequim	2ª e 3ª feira
+570	Faroleiro	Cascais	Cascais	Marisqueira	Peixe e marisco	Não encerra
+571	Foral da Vila- Rest e Bar	Cascais	Cascais	Diversa	Bife de atum com sementes 	Domingo e 2.ª feira ao almoço
+572	Fortaleza do Guincho	Cascais	Cascais	Tradicional portuguesa		Não encerra
+573	Furnas do Guincho	Cascais	Cascais	Tradicional portuguesa	"Peixe; Caldeirada; Paelha"	Não encerra
+574	Gordinni	Cascais	Cascais	Italiana	Picanha e Pizzas	Não encerra
+575	Mar do Inferno	Cascais	Cascais	Tradicional portuguesa	Peixe e marisco	4ª feira
+576	Mestre Zé	Cascais	Cascais	Tradicional portuguesa	"Cataplana de marisco; Peixe ao sal; Bife à Chef"	Não encerra
+577	Monte Mar	Cascais	Cascais	Tradicional portuguesa	"Filetes de pescada; Peixe ao sal; Peixe grelhado; Salada de gambas"	2ª feira
+578	Pastorinha	Carcavelos	Cascais	Tradicional portuguesa		3ª feira
+579	Pizza Itália	Cascais	Cascais	Italiana	Pizzas e pasta	4ª feira e 5ª feira ao almoço
+580	Porto de Santa Maria	Cascais	Cascais	Tradicional portuguesa	Peixe e marisco	2ª feira
+581	Taverna do Francês	Cascais	Cascais	Francesa	"Perna de pato; Linguado"	Domingo
+582	Vin Rouge	Cascais	Cascais	Tradicional portuguesa		Domingo à noite e 2ª feira
+583	Vela Azul	Cascais 	Cascais 	Tradicional portuguesa	Robalo escalado à lagareiro 	Domingo
+584	Visconde da Luz	Cascais	Cascais	Tradicional portuguesa 	Peixe e marisco	3ª feira
+585	 O Mercado	Lisboa	Lisboa	Grelhados no carvão	Peixe	Domingo
+586	1º de Maio	Lisboa	Lisboa	Tradicional portuguesa	Bacalhau à Braz e Entrecosto com Feijoca da Beira	Não encerra
+587	A Baiuca	Lisboa	Lisboa	Tradicional portuguesa	Bacalhau assado com batata a murro e costeleta de novilho grelhada	3ª e 4ª feira
+588	A Barca dos Corvos	Lisboa	Lisboa	Tradicional portuguesa	Leitão da Bairrada à 6ª feira	Domingo
+589	A Charcutaria	Lisboa	Lisboa	Tradicional portuguesa	Perdiz	Sábado à noite e Domingo
+590	A Comenda	Lisboa	Lisboa	Internacional	Feijoada portuguesa	Domingo ao jantar
+591	A Marisqueira do LIS	Lisboa	Lisboa	Marisqueira	Marisco/Arroz de marisco	Domingo
+592	A Nini	Lisboa	Lisboa	Tradicional portuguesa	Alheira assada, bife pimenta.	Domingo
+593	A Pateira	Lisboa	Lisboa	Tradicional portuguesa	Buffet	Domingo à tarde e 2ª feira
+594	A Travessa	Lisboa	Lisboa	Belga	Magret de pato / Bife de lombo  / Peixe	Domingo
+595	A Trempe	Lisboa	Lisboa	Tradicional portuguesa	"Caril Gambas; Cozido de grão"	Domingo
+596	Açoriano	Lisboa	Lisboa	Açoriana	Cozido das Furnas, Sopa do Espírito Santo e Caldo de peixe	3ª feira
+597	Adega do Silva	Lisboa	Lisboa	Tradicional portuguesa	Arroz de pato/ Arroz de cherne/Polvo à lagareiro	Domingo e feriados
+598	Adega dos Macacos	Lisboa	Lisboa	Tradicional portuguesa	Bacalhau cozido com grão	Domingo
+599	Adega Tia Matilde	Lisboa	Lisboa	Tradicional portuguesa	Cabrito no forno	2ª feira
+600	Adega Tipica da Tala	Cacem	Lisboa	Regional	Cozido à portugesa	2ª e 3ª feira
+601	Água e Sal	Lisboa	Lisboa	Italiana		Domingo ao jantar
+602	Alma (Henrique Sá Pessoa)	Lisboa	Lisboa	Cozinha de autor		2ª feira
+603	Arcos de Campolide	Lisboa	Lisboa	Marisqueira	Arroz e Açorda de marisco, Grelhados na brasa	Sábado
+604	Aromas & Sabores	Lisboa	Lisboa	Wine Bar	"Enchidos Vários; Carpaccio de bacalhau; selecção de tábuas de queijos"	Domingo
+605	As Velhas	Lisboa	Lisboa	Tradicional portuguesa	Peixe/carne/diversos	Domingo
+606	Assuka	Lisboa	Lisboa	Japonesa	À la carte	Não encerra
+607	AYA - Twin Towers	Lisboa	Lisboa	Japonesa	Sushi	Não encerra
+608	Bar do Ritz	Lisboa	Lisboa	Tapas, Sandes	Prego no pão do caco, um hambúrguer vegetariano	Não encerra
+609	Barcabela	Lisboa	Lisboa	Tradicional portuguesa	Bife na frigideira/Arroz de marisco/ Mariscos 	Domingo
+610	Belleza de Itália	Lisboa	Lisboa	Variada	Pizzaria / Paelha	Domingo
+611	Bem me quer	Lisboa	Lisboa	Vegetariana	Lasanha de legumes, crepes de requeijão e doce de abóbora, sumos naturais	Domingo
+612	BonJardim	Lisboa	Lisboa	Churrasco	Grelhada mista	Não encerra
+613	Botequim do Rei	Lisboa	Lisboa	Tradicional portuguesa	Serra e Mar (misto de carne e de peixe)	2ª feira
+614	Café Jasmim 	Lisboa	Lisboa	Tradicional portuguesa		Domingo
+615	Café de S. Bento	Lisboa 	Lisboa	Steak House	"Bife à Café de S. Bento; Bife grelhado e bife à portuguesa"	Sáb.e domingo ao almoço 
+616	Cantina LX	Lisboa	Lisboa	Tradicional portuguesa	"Lombo de garoupa; pato assado; bife"	Sábado e domingo 
+617	Casa da Comida	Lisboa	Lisboa	Tradicional portuguesa	"Foie gras fresco c/ maçã; Garoupa além Tejo"	Sábado à noite e Domingo
+618	Casa da Mó	Lisboa	Lisboa	Alentejana	Migas, sopa de cação	Domingo
+619	Casa de Goa	Lisboa	Lisboa	Goesa 	Caril de lagosta/Gambas e Vindalho de carne de porco	Não encerra
+620	Casa de Linhares	Lisboa	Lisboa	Internacional e Tradicional portuguesa	Bacalhau assado com batata a murro e peito de pato com pera-e-mel	Não encerra
+621	Casa do Alentejo	Lisboa	Lisboa	Alentejana	Migas, Entrecosto e Bacalhau de coentrada	Não encerra
+622	Casa dos Passarinhos	Lisboa	Lisboa	Tradicional portuguesa	"Açorda de gambas; Bife na pedra e peixe fresco grelhado"	Domingo
+623	Casa Ilha da Madeira	Lisboa	Lisboa	Tradicional portuguesa	Espetadas à Madeira	Domingo
+624	Casa Mia	Lisboa	Lisboa	Italiana	Pastas / Pizzas	Domingo
+625	Caseiro	Lisboa	Lisboa	Tradicional portuguesa	Língua de vaca 	Domingo
+626	Cervejaria Luminosa	Lisboa	Lisboa	Cervejaria/Marisqueira 	Marisco	Domingo
+627	Cervejaria Moderna	Lisboa	Lisboa	Tradicional portuguesa	Bife à Portuguesa	Domingo
+628	Cervejaria Ramiro	Lisboa	Lisboa	Marisqueira	Marisco/Bife da Frigideira	3ª feira
+629	Cerveirense	Lisboa	Lisboa	Tradicional portuguesa	Bacalhau à Minhota,Cozido à Portuguesa, 	2ª feira
+630	Chaminés do Palácio	Lisboa	Lisboa	Tradicional portuguesa	Hambúrgar de alheira	Sábado e domingo
+631	Cinderela 	Lisboa	Lisboa	Cervejaria	Arroz de marisco	Domingo
+632	Cisterna	Lisboa	Lisboa	Tradicional portuguesa	Migas com entrecosto, arroz de pato, lombinhos com coentros, peixe grelhado	Domingo
+633	City Louge	Lisboa	Lisboa	Cozinha leve	Hamburguers	Domingo
+634	Clube dos Empresários	Lisboa	Lisboa	Tradicional portuguesa	Sopa de peixe	Domingo
+635	Coelho da Rocha	Lisboa	Lisboa	Tradicional portuguesa		Domingo
+636	Colina	Lisboa	Lisboa	Tradicional portuguesa		Domingo
+637	Cop'3	Lisboa	Lisboa	Tradicional portuguesa	Terrina de lebre com legumes de escabeche e broa de milho	Domingo
+638	Cravo e Canela	Lisboa	Lisboa	Nacional e Internacional	"Polvo com chutney de manga; Risoto de farinheira com couve portuguesa; Confit de bacalhau; Confit de pato aromatizado com canela"	Domingo
+639	Delícias de Goa	Lisboa	Lisboa	Tradicional portuguesa	Comida goesa	Domingo à noite e 2ª feira
+640	Eddy's Kitchen	Lisboa	Lisboa	Japonesa	Sushi	Domingo e feriados
+641	Eleven	Lisboa	Lisboa	Tradicional portuguesa	Castelo de R, Perdiz com Couve Verde e Foie Gras, Sortido de Peixes do Dia com Verduras Ca, Sortido de Peixes do Dia com Verduras Caramelizadas	Domingo e 2º feira
+642	Estrela Bife Bar	Lisboa	Lisboa	Tradicional portuguesa	Bifes à portuguesa	Domingo
+643	Estufa Real	Lisboa	Lisboa	Internacional	Bacalhau 	2ª feira
+644	Farta Brutos	Lisboa	Lisboa	Tradicional portuguesa	Pataniscas de bacalhau, Perna de galo com vinho tinto, Queijinho no forno com ervas aromáticas.	Domingo
+645	Franguinho Real	Lisboa	Lisboa	Tradicional portuguesa	Tirinhas de porco preto c/ arroz de feijão Polvo, espetada em pau de louro, franguinho à guia.bacalhau minhota	Domingo
+646	Galito	Lisboa	Lisboa	Alentejana	"Cacholeira assada; perdiz estufada; migas gatas de bacalhau"	Domingo e feriados
+647	Gambrinus	Lisboa	Lisboa	Internacional/Regional portuguesa	Peixe e frutos do mar	1º de Maio
+648	Gôndola	Lisboa	Lisboa	Internacional e Tradicional Portuguesa	Canelones à Chef	Domingo
+649	Green Pepper	Lisboa	Lisboa	Buffet, Cozinha Vegetariana	Feijoada à brasileira, Lasanha de legumes	Domingo
+650	Grelha Alta	Lisboa	Lisboa	Tradicional portuguesa	Grelhados	Domingo
+651	Horta dos Brunos	Lisboa	Lisboa	Tradicional portuguesa	"Peixe assado no forno; Lulas à casa; massada de peixe; Ensopado de borrego"	Sábado ao almoço e domingo
+652	Isaura	Lisboa	Lisboa	Regional 	Cataplana	Sábado
+653	Já Fumega	Lisboa	Lisboa	Tradicional portuguesa	Grelhados(carne e peixe)	2ª feira
+654	KAFOFO	Lisboa	Lisboa	Tradicional portuguesa	Bife com molho de queijo ou de mostarda	
+655	Kais	Lisboa	Lisboa	Tradicional portuguesa		Não encerra
+656	KYOTO HOUSE	Lisboa	Lisboa	Japonesa	Rodizio	Não encerra
+657	La Campania	Lisboa	Lisboa	Italiana	Massas e carnes	Domingo
+658	La Rúcula	Lisboa	Lisboa	Italiana	Massas, Bife	Não encerra
+659	La Trattoria	Lisboa	Lisboa	Italiana	Massas e carnes	Não encerra
+660	Lapa Palace	Lisboa	Lisboa	Italiana		Não encerra
+661	Latino	Lisboa	Lisboa	Tradicional portuguesa	Açorda marisco e Grelhados	Domingo
+662	Luca	Avenida Liberdade	Lisboa	Italiana c/ tendência internacional	Pastas / Risotto	Sábado almoço e domingo
+663	Lusitana	Lisboa	Lisboa	Cervejaria	Bife à cervejeira	Não encerra
+664	Magano	Lisboa	Lisboa	Alentejana	"Cabrito assado c/arroz de miúdos; Sopa de cação"	Domingo
+665	Magnolia Café	Lisboa	Lisboa	Mediterrânica	Bife biológico	Não encerra
+666	Marquês de Palma	Lisboa	Lisboa	Tradicional portuguesa	Leitão, Cabrito	Domingo
+667	Mercado	Lisboa	Lisboa	Tradicional portuguesa	Peixes e carnes grelhadas	Domingo
+668	NovoAltair	Lisboa	Lisboa	Fondues	Fondues	2ª feira
+669	O Batista	Lisboa	Lisboa	Tradicional portuguesa	Cozido à portuguesa à 5ª feira	3.ª feira ao jantar e 4.ª feira
+670	O Bem Disposto	Lisboa	Lisboa	Tradicional portuguesa	"Sardinhas; lulas; bacalhau; bifes"	3ª feira e feriados 
+671	O Bitoque Real	Lisboa	Lisboa	Grelhados	Grelhados Carne	2ª feira
+672	O Cacho Dourado	Lisboa	Lisboa	Tradicional portuguesa	"Açorda de marisco; Bacalhau à Cacho Dourado; Arroz de tamboril"	Sábado
+673	O Cardo	Lisboa	Lisboa	Marisqueira	"Mariscos; Picanha;"	Não encerra
+674	O Charneca	Lisboa	Lisboa	Tradicional portuguesa	Grelhados	Sábado
+675	O Diamantino	Lisboa	Lisboa	Tradicional / Buffet	Cozido à portuguesa	Não encerra
+676	O Fernando	Lisboa	Lisboa	Minhota e Algarvia	Grelhados no carvão 	Domingo
+677	O Funil	Lisboa	Lisboa	Tradicional portuguesa		Domingo ao jantar feriados
+678	O Grémio	Lisboa	Lisboa	Internacional	Entrecot à Café de Paris	Domingo e Sábado almoço
+679	O Guarda Mor	Lisboa	Lisboa	Tradicional portuguesa	"Filetes; linguado; perna de borrego; iscas"	Sábado e Domingo ao almoço e 2ª feira
+680	O Jacinto	Lisboa	Lisboa	Tradicional portuguesa	Cabrito assado no forno	Não encerra
+681	O Jogo do Lavrador	Lisboa	Lisboa	Tradicional portuguesa	Picanha, Secretos de porco preto com migas….	2ª feira
+682	O Magano	Lisboa	Lisboa	Tradicional portuguesa	"Cabrito assado com arroz de miúdos; sopa de cação"	Domingo
+683	O Mattos	Lisboa	Lisboa	Tradicional portuguesa	Posta Mirandesa e Polvo à lagareiro	Domingos e feriados
+684	O Poleiro	Lisboa	Lisboa	Tradicional portuguesa		Sábado ao jantar e domingo
+685	O Pregoeiro de Carnide	Lisboa	Lisboa	Tradicional portuguesa	Grelhados	Domingo
+686	O Raposo	Lisboa	Lisboa	Tradicional portuguesa	Caldeiradas/massas de peixe/ naco na pedra	Domingo
+687	Olivier	Lisboa	Lisboa	Italiana	Massas 	Domingo
+688	Os Tibetanos	Lisboa	Lisboa	Tibetana	Salada Primavera com tofu	Sábado, domingo e feriados
+689	Palmeiras	Lisboa	Lisboa	Tradicional portuguesa	Grelhados	Domingo
+690	Pastelaria Granfina	Lisboa	Lisboa	Tradicional portuguesa	Arroz de pato	Domingo
+691	Pateo Alfacinha - Sala Menina do Tejo	Lisboa	Lisboa	Tradicional portuguesa	Grelhadas mistas de peixe, Cataplana de peixe e Cabrito à Padeiro	Domingo à noite
+692	Pátio de Alfama	Lisboa	Lisboa	Tradicional portuguesa	Bife à portuguesa e bacalhau assado no forno c/migas	Domingo
+693	Pinóquio	Lisboa	Lisboa	Cervejaria	Peixe fresco e marisco	Não encerra
+694	Pizzaria Lucca	Lisboa	Lisboa	Italiana	Pizzas	4ª feira
+695	Presuntaria do Tejo	Lisboa	Lisboa	Petiscos	Variedade petiscos	Domingo e feriados
+696	Quebra Mar	Lisboa	Lisboa	Tradicional portuguesa	Leitão à Bairrada. Marisco  	Domingo
+697	Quinta dos Frades	Lisboa	Lisboa	Internacional	Bacalhau com brôa	Domingo e feriados
+698	Recanto de Alfama	Lisboa	Lisboa	Tradicional portuguesa		Domingo
+699	Restaurante O Sancho	Lisboa	Lisboa	Tradicional portuguesa	Carne/peixe/diversos	Domingo
+700	Retiro do Chefe Costa	Lisboa	Lisboa	Tradicional portuguesa	Caçarola de Marisco c/esparguete, Caçarola de polvo à lagareiro e Rojões porco à minhota	2ª feira
+701	Riverside	Lisboa	Lisboa	Italiana		Não encerra
+702	Rosa Da Rua	Lisboa	Lisboa	Portuguesa Almoço Buffet Jantares à carta	"Caril de gambas; Bochechas de porco preto em massa folhada"	Domingo
+703	Sabor e Arte	Lisboa	Lisboa	Tradicional portuguesa	Peixes e mariscos	Domingo
+704	Sabor mineiro	Lisboa	Lisboa	Rodizio e Buffet	Rodizio	Não encerra
+705	Salsa e Coentros	Lisboa	Lisboa	Alentejana	"Empada de perdiz; lebre com feijão"	Domingo
+706	Saraivas	Lisboa	Lisboa	Tradicional portuguesa	Bacalhau à gondoniz \ Arroz de pato à antiga	6ª feira à noite e Sábado
+707	Semdúvida	Lisboa	Lisboa	Mediterrânica	Marisco	Não encerra
+708	Sete Mares	Lisboa	Lisboa	Tradicional portuguesa	Leitão	Domingo
+709	Sol Dourado	Lisboa	Lisboa	Tradicioal portuguesa	Arroz de marisco, Cabrito à padeiro e Bacalhau à lagareiro	Não encerra
+710	Solar dos Nunes	Lisboa	Lisboa	Tradicional portuguesa	Cozido à portuguesa, caldo de robalo, empada de caça	Domingo
+711	Solar dos Presuntos	Lisboa	Lisboa	Tradicional portuguesa	Peixe grelhado, caça e marisco	Domingo
+712	Sr Vinho	Lisboa	Lisboa	Tradicional portuguesa	Bacalhau à Sr Vinho, cabrito assado forno	Não encerra
+713	ST. António	Lisboa	Lisboa	Tradicional portuguesa	"Bacalhau à lagareiro; Carnes e peixes grelhados"	Domingo
+714	Stop do Bairro	Lisboa	Lisboa	Tradicional portuguesa	"Arroz de tamboril; Carne de porco à alentejana"	Domingo
+715	Taberna Basca	Lisboa	Lisboa	Espanhola	Tapas	Não encerra
+716	Taberna Hiberica	Lisboa	Lisboa	Espanhola	Cañas/Tañas	Domingo
+717	Tágide	Lisboa	Lisboa	Tradicional portuguesa	"Mil folhas de alheira com grelos; bacalhau com presunto; magret de pato; lombo de robalo"	Domingo e 2ª feira
+718	Tasquinha d' Adelaide	Lisboa	Lisboa	Tradicional portuguesa	"Polvo à lagareiro; borrego"	Domingo e feriados
+719	Tempero de Minas	Lisboa	Lisboa	Brasileira- Minas Gerais	"Bufet; Comida típica do Estado Minas Gerais"	Domingo
+720	Tentações de Goa	Lisboa	Lisboa	Goesa		2ª feira
+721	Tertúlia Paço 	Lisboa	Lisboa	Mariscos		Domingo à noite
+722	Tomo	Lisboa	Lisboa	Japonês	Japonês dos melhores de Lisboa	Domingo à noite e 2ª feira
+723	Udina	Lisboa	Lisboa	Tradicional portuguesa	Bitoques	Domingo
+724	Valenciana	Lisboa	Lisboa	Tradicional portuguesa	Frango no churrasco	Não encerra
+725	Valentino	Lisboa	Lisboa	Italiano	Pasta fresca	Não encerra
+726	Varanda Azul	Lisboa	Lisboa	Tradicional Portuguesa	"Pataniscas de bacalhau; filetes; ensopado de borrego; cabrito assado"	Não encerra
+727	Varanda da União	Lisboa	Lisboa	Tradicional portuguesa	Bacalhau no forno recheado com presunto	Domingo
+728	Varina da Madragoa	Lisboa	Lisboa	Snack bar	Feijoada de leitao, Arroz de pato, Delícia de Bacalhau	Não encerra
+729	Vela Latina	Lisboa	Lisboa	Internacional	Peixe grelhado.	Domingo
+730	Velho Macedo	Lisboa 	Lisboa	Tradicional Portuguesa	Lombos de salmão	Não encerra
+731	Virgula	Lisboa	Lisboa	Portuguesa, Mediterranica	"Lombo de veado; Cantaril assado com risotto de ameijoas"	Domingo
+732	Xanti-Casa de Goa	Lisboa	Lisboa	Goesa		Não encerra
+733	Xico's Rio	Lisboa	Lisboa			2ª feira
+734	XL	Lisboa	Lisboa	Tradicional portuguesa	Bifes variados / Souflés/Perna de cordeiro assada	Domingo
+735	A Paz	Lisboa	Lisboa 	Tradicional portuguesa		Sábado e domingo
+736	Belém	Lisboa	Lisboa 	Internacional	Espetadas de lulas c/camarão	Sábado ao almoço, Domingo e 2ª feira
+737	Entrecopos 	Lisboa 	Lisboa 	Tradicional portuguesa	Grelhados peixe 	Domingo ao jantar 
+738	O Andorinhas 	Lisboa	Lisboa 	Tradicional portuguesa		2ª feira
+739	Locanda Italiana	Lisboa 	Lisboa	Italiana	Rosbife e fetucinni	Não encerra
+740	2780 Taberna	Oeiras	Oeiras	Cozinha de autor		Domingo e 2ª feira
+741	A Sirene	Algés	Oeiras	Tradicional portuguesa	Cozido à portuguesa / Choco frito	Domingo
+742	Cervejaria Lusitana	Carnaxide	Oeiras	Bifes, marisco	Bifes, marisco	Não encerra
+743	Franguia	Massamá	Oeiras	Diversa	Bacalhau à lagareiro	2ª feira
+744	Novo Altair	Oeiras	Oeiras	Fondues de carne, peixe, marisco	Fondue mongol 	Domingo e 2.ª feira 
+745	O Faustino	Paço Arcos	Oeiras	Marisqueira	Arroz de lagosta	Domingo
+746	O Orelhas	Queijas	Oeiras	Tradicional portuguesa	Peixes grelhados 	Domingo
+747	O Parreirinha	Massamá	Oeiras	Diversa	"Açorda de ovas; Arroz de cabidela"	4ª feira
+748	Rios	Oeiras	Oeiras	Requintada 	Magret de pato	Não encerra
+749	SIMPS	Porto Salvo	Oeiras	Caseira	Sopa rica de peixe e açorda real,	Domingo à noite
+750	Solar do Marquês	Oeiras	Oeiras	Tradicional portuguesa	"Cabrito no forno à padeiro; Fondues e cataplanas "	Domingo à noite e 2ª feira
+751	Peixe na Linha	S.P.Estoril	S.P.Estoril	Tradicional portuguesa	Pratos de peixe e carne 	Não encerra
+752	A Pérola da Anta	Lisboa	Sintra	Tradicional portuguesa	Grelhados	4ª feira
+753	A Tendinha	Mem Martins	Sintra	Tradicional portuguesa	Arroz de marisco	2ª feira a partir 16 h e 3ª feira
+754	Adega do Saloio	Sintra	Sintra	Regional	Cabrito assado e espetada da Madeira	2ª feira
+755	Agostinho	Massamá	Sintra	Tradicional portuguesa	Peixe fresco	2ª feira
+756	Almocreve	Sintra	Sintra	Tradicional portuguesa	Caça	2ª feira
+757	Arola	Sintra	Sintra	Cozinha Atlântica		2ª e 3ª feira só almoços
+758	Barca Velha	Massamá	Sintra	Marisqueira	Marisco	2ª feira
+759	Buzio	Praia Maçãs	Sintra	Diversa, Peixe	Frigideira de peixe, mariscos	Não encerra
+760	Espaço Cibernético	Massamá	Sintra	Tradicional portuguesa		Não encerra
+761	Marisqueira Barco á Vela	Sintra	Sintra	Peixe, marisco	Marisco	4ª feira
+762	Neptuno	Colares	Sintra	Tradicional portuguesa		3ª feira ao jantar e 4ª feira
+763	O Caneira	Negrais	Sintra	Tradicional portuguesa	Leitão assado	2ª feira a partir 16 h e 3ª feira
+764	O Casarão 	Queluz	Sintra	Tradicional portuguesa	Cabrito, espetadas, açorda de gambas, bacalhau à lagareiro	3ª feira
+765	O Chaby	Sintra	Sintra	Tradicional portuguesa	Grelhada mista	Domingo à noite e 2ª feira
+766	Cozinha Velha	Queluz	Sintra	Tradicional portuguesa		Não encerra
+767	O Cortador	Terrugem	Sintra	Tradicional portuguesa		4ª feira
+768	O Forno	Terrugem	Sintra	Tradicional portuguesa	Plumas e secretos de porco	Domingo
+769	O Grelhador	Vila verde	Sintra	Tradicional portuguesa	Grelhados	Domingo
+770	O Nuno	Mem Martins	Sintra	Tradicional portuguesa	Grelhados	Domingo à noite
+771	O Pizza	Sintra	Sintra	Italiana	Comida italiana e espetadas	4ª feira
+772	O Regiões	Cacém	Sintra	Tradicional e Regional	Bacalhau e polvo à lagareiro	
+773	O Trilho	Sintra	Sintra	Tradicional portuguesa	Caça	Não encerra
+774	Palácio	Pero Pinheiro	Sintra	Tradicional portuguesa	Massada de cherne	Domingo
+775	Refúgio da Roca	Azoia	Sintra	Tradicional portuguesa	Pratos de peixe	3ª feira
+776	Regional de Sintra	Sintra	Sintra	Regional	"Dourada ao sal; Arroz de marisco; Bacalhau à lagareiro; Bacalhau à Regional"	4.ª feira
+777	Rocha	Sintra	Sintra	Tradicional portuguesa	Arroz de peixe	Domingo
+778	A Maria	Alandroal	Alandroal	Regional	Mão de vaca, chispe assado no forno	2ª feira
+779	Café Central	Juromenha	Alandroal	Regional	Caldeirada de peixe do rio (só por marcação, ou aos Domingos)	Não encerra
+780	O Tarro	Santiago maior	Alandroal	Regional	Burras assadas, feijão com poejo e bacalhau	2ª feira
+781	A Ruina 	Albufeira	Albufeira	Internacional		2ª feira
+782	Adega Dom Pipas	Albufeira	Albufeira	Tradicional portuguesa		
+783	Castelo do Bispo	Albufeira	Albufeira	Tradicional portuguesa	Peixe e marisco	Domingo
+784	Mato à Vista	Paderne	Albufeira	Regional	Cataplanas/caça	2ª feira
+785	Os Azeiteiros	Albufeira	Albufeira	Internacional	Peixe grelhado no carvão	Domingo
+786	Pássaro Azul	Albufeira-Olhos Água	Albufeira	Internacional	Peixe grelhado	
+787	Praia do Evaristo	Albufeira	Albufeira	Tradicional portuguesa	Cataplana de Marisco/Grelhados	
+788	São Domingos	Vale Parra	Albufeira	Regional e Internacional	Cataplanas	Não encerra
+789	Três Palmeiras	Albufeira	Albufeira	Internacional	Petiscos	Domingo
+790	Veneza	Albufeira	Albufeira	Regional	Cataplanas 	2ª e 3ª ao jantar
+791	Vila Joya	Albufeira	Albufeira	Cozinha de Gala		
+792	A Escola de Henrique Galvão Lopes	Alcácer do Sal	Alcacer do Sal	Regional	"Arroz choco c/ camarão; Açorda tomate c/ enguias fritas; Batata de Rebolão; Empada coelho bravo"	2ª feira
+793	Excelentíssimo	Torrão	Alcácer do Sal	Regional	Leitão assado no forno e arroz de peixe, (também conhecido como canja de garoupa)	Aberto só ao fim semana
+794	O Barco do Sado	Praia da Carrasqueira	Alcácer do Sal	Regional	Arroz de lingueirão	2ª feira
+795	 Museu do Arroz	Comporta	Alcácer do Sal	Regional		2ª feira
+796	Tasca do Gino  	Alcácer do Sal	Alcácer do Sal	Regional		2ª feira à noite e 3ª feira
+797	Alcaxete	Alcochete	Alcochete	Regional	Peixes e mariscos	3ª feira
+798	O Arrastão	Alcochete	Alcochete	Regional	Peixe grelhado	2ª feira
+799	O Maritimo	Alcochete	Alcochete	Regional	Caldeirada de peixe	2ª feira
+800	Taberna D. Manuel I	Alcochete	Alcochete	Regional	Grelhados	2ª feira
+801	A Lareira	Aljezur	Aljezur	Regional	"Carne na telha, Cataplana de peixe; Grelhados diversos "	Sábado
+802	RUTH	Aljezur	Aljezur	Regional	Grelhados na Brasa, Feijão na Abóbora, papas, etc	Sábado
+803	Taberna do Gabriel	Aljezur	Aljezur	Exótica	Todo o tipo de marisco e peixe	Não encerra
+804	Bangula	Messejana	Aljustrel	Regional	Borrego à pastora e sopas de cação	Domingo
+805	D. Isabel 	Messejana	Aljustrel	Regional	Sopa de lebre / Sopa de poejo com talhadas	Não encerra
+806	O Cabecinha	Aljustrel	Aljustrel	Marisqueira	Espetadas	2ª feira
+807	Catedral do Fondue	Porto Brandão	Almada	Fondue	Fondue de novilho e marisco	Não encerra
+808	Fuji	Costa da Caparica	Almada	Japonesa	Sushi e Grelhados	Não encerra
+809	Marisqueira Carlos	Charneca Caparica	Almada	Tradicional portuguesa	Marisco	
+810	Nana Petiscos (tipo tasca)	Charneca Caparica	Almada	Petiscos-  Varios	"Queijo Assado ; Caracoletas Grelhadas  "	Não encerra. Só abre a partir das 17 horas
+811	O Texugo (tipo tasca)	Sobreda da Caparica	Almada	Tradicional portuguesa	"Polvo à Texugo; Carvoadas, entre outros"	3ª feira
+812	Ó Carlos	Charneca Caparica	Almada	Tradicional portuguesa	Grelhados de peixe	2ª feira
+813	Amarra Ó Tejo	Almada	Almada	Tradicional portuguesa	Peixe	
+814	Camões	Fonte da Telha	Almada	Tradicional portuguesa	Caldeiradas, peixe e marisco	
+815	Restaurante XS	Costa da Caparica	Almada	Variada	Peixe	3ª feira
+816	Sabores 	Charneca Caparica	Almada	Sueca/ Gourmet	Pratos suecos. Pratos tradicionais portugueses	4ª feira
+817	Tasca do Nana 	Costa da Caparica	Almada	Tradicional portuguesa	Essencialmente pratos peixe	
+818	Tasquinha do Aires	Trafaria	Almada	Tradicional portuguesa		
+819	2 Passos	Almancil 	Almancil	Peixe/marisco	Peixe grelhado escalado, marisco, lagosta à Pote João	Não encerra. Só serve almoços
+820	Casa Velha (Antigo chef do Ermitage - Jean-François Renard)	Almancil	Almancil	Francesa	Sugestão do Chef	Só serve jantar
+821	Casavostra	Almancil	Almancil	Italiana		Não encerra
+822	Chinese Gourmet	Almancil	Almancil	Cantonesa/Pequim		Não encerra 
+823	Gourmet Natural (antigo Ermitage)	Almancil	Almancil	Steak House	Parilla uruguaia	Não encerra. Só serve jantar
+824	Henrique Leis	Almancil 	Almancil	Francesa	Todos, com o sorbet de limão entre a entrada e o prato principal!	Só está aberto sextas ao jantar, Sád e Dom todo o dia.
+825	Jardim do Vale	Almancil	Almancil	Francesa	Sugestão do Chef	Domingo (Férias em Dezembro)
+826	Pequeno Mundo	Almancil	Almancil	Francesa	Sugestão do Chef	Domingo (Férias em Dezembro)
+827	S. Gabriel	Almancil	Almancil	Mediterranica/internacional		2ª feira
+828	Tá Certo	Almancil	Almancil	Tradicional portuguesa	Grelhados	2ª feira
+829	Sr. Frango	Almancil	Almancil	Grill	Frango assado/Pá de cabrito no forno	
+830	O Toucinho	Almeirim	Almeirim	Tradicional portuguesa	Sopa da pedra e carnes grelhadas	3º feira
+831	Tasca do Morgadinho	Alvor	Alvor	Peixe Grelhado	Grelhados	Não encerra
+832	O Alpendre	Arraiolos	Arraiolos	Regional	Entradas diversas e boa caça	2ª feira
+833	Cervejaria Pulo do Lobo	Beja	Beja	Petiscos/Mariscos		Domingo
+834	D.Dinis	Beja	Beja	Tradicional portuguesa	Boa Carne ( prato da casa Pijaminha)	4ª feira
+835	Espelho de Agua	Beja	Beja	Tradicional portuguesa	Grelhados	2ª feira
+836	As Marés II	Altura	Castro Marim	Marisqueira	Cataplanas	4ª feira
+837	Bate Que Eu Abro	Altura	Castro Marim	Tradicional portuguesa	Tornedó, Medalhões c/ banana,Peixes, Mariscos	
+838	A Cavalariça	Castro Verde	Castro Verde	Regional	"Açorda de fraca; Açorda de perdiz; migas; etc"	2ª feira
+839	Casa do Parque	Castelo de Vide	Cº de Vide	Tradicional portuguesa	Lombo à Chef - Pezinhos de coentrada	4ª feira
+840	D. Pedro V	Castelo de de Vide	Cº de Vide	Regional	Cozido à portuguesa - Arroz de lebre	2ª feira
+841	O Miguel	Cºde Vide	Cº de Vide	Regional	Bacalhau à Narcisa - Migas à Alentejana	Domingo
+842	O Sever	Cºde Vide	Cº de Vide	Regional	Queixadas de Porco no forno - Arroz de lebre	4ª feira
+843	Adega da Lua	Cuba	Cuba	Tradicional portuguesa	Bacalhau e lombo gratinado	2ª feira
+844	Chave Douro	Cuba	Cuba	Regional	Caldeirada de borrego	Sabado
+845	Lula	Cuba	Cuba	Regional	Borrego à Pastora	Domingo
+846	Monte Pedral	Cuba	Cuba	Regional	Açordas/Sopa de peixe/cação	
+847	El Cristo	Elvas	Elvas	Tradicional portuguesa	Peixe/Marisco	Não encerra
+848	Marisqueira Hora a Hora	Elvas	Elvas	Marisco		4ª feira
+849	O Pompílio	Elvas	Elvas	Regional	Caça	3ª feira
+850	Taberna do Adro	Vila Fernando	Elvas	Regional 	Todos (petiscos regionais)	4ª feira
+851	All Zullaick	Estremoz	Estremoz	Tradicional portuguesa		
+852	Pousada Rainha Sta Isabel	Estremoz	Estremoz	Regional	Bacalhau dourado/Borrego assado	Não encerra
+853	São Rosas	Estremoz	Estremoz	Regional		2ª feira
+854	Dom Joaquim	Evora	Evora	Regional		2ª feira
+855	O Chico	São Manços	Evora	Regional	Sopas de cardos e beldroegas - Borrego e Carne de porco preto	2ª feira
+856	Taberna Tipica 4ª Feira	Evora	Evora	Regional	Migas de couve-flor	Domingo
+857	Botequim da Mouraria	Évora	Évora	Regional		Sábado ao jantar, Domingo e feriados
+858	Luar de Janeiro	Évora	Évora	Regional	Borrego, cabrito e caça	5ª feira
+859	O Fialho	Évora	Évora	Regional	"Migas espargos c/carne porco; Açorde de peixe, Sopa de perdiz"	2ª feira
+860	Restaurante Vinho & Noz	Évora	Évora	Regional	Galinha de cabidela	3ª feira
+861	Tasquinha do Oliveira	Évora	Évora	Regional	"Arrozes; Grelhados - Secretos a preceito e lombinhos de javali."	Domingo e Feriados
+862	Adega Nova	Faro	Faro	Regional		
+863	Alagoas	Sta Barbara de Nexe	Faro	Peixe	Espetadas de lulas e tamboril	
+864	Camané	Faro	Faro	Tradicional portuguesa		2ª feira
+865	Casa Algarvia  	Faro	Faro	Grelhados no Carvão	Peixe escalado, feijoada de gambas e cavalas com orégãos. No Verão sardinhas assadas. Termina com amêndoas torradas acompanhadas por um digestivo.	Domingo
+866	Faro e Benfica	Faro	Faro	Peixe/Marisco	Peixe e Marisco frescos	3ª feira
+867	Fontinha	Faro	Faro	Peixe	Grelhados carvão, arroz lingueirão, Lulinhas	Domingo
+868	Marsol	Faro	Faro	Peixe/Marisco	"Arroz de lingueirão;Tamboril; Marisco, Peixe fresco"	3ª feira à noite
+869	Ministério da Cerveja	Faro	Faro	Regional	Bacalhau cozido com grão e cabrito assado no forno …	Domingo
+870	O Estaminé	Faro	Faro	Grelhados no Carvão	Peixe, carne, camarões areia	Não encerra
+871	O Farol	Faro	Faro	Peixe	Peixe	2ª feira
+872	Ramos	Faro	Faro	Peixe	Mista de peixe, Arroz lingueirão, cataplana	2ª feira
+873	República	Faro	Faro	Regional		Sábado e domingo (almoço)
+874	Snack Bar Restaurante O Ruah	Faro	Faro	Grelhados	Peixe	Domingo ao almoço 
+875	Solar dos Presuntos	Faro	Faro	Regional	Massinha de tamborial e polvo à lagareiro	Sábado e feriados
+876	Vela II	Tavira	Faro	Peixe	Mista peixe	Domingo
+877	Ze Maria	Faro	Faro	Peixe	Arroz lingueirão	2ª feira
+878	Zé Maria	Tavira	Faro	Peixe	Mista peixe	Não encerra
+879	A Talha	Grandola	Grandola	Regional		Domingo à noite e 2ª feira
+880	Le Paradis	Ferragudo	Lagoa	Grelhados	Parrilha argentina/camarão laranja	4ª feira
+881	Mistral	Carvoeiro	Lagoa	Carnes Grelhadas	Picanha à brasileira	
+882	Morgadinho	Lagoa  	Lagoa	Degustação		
+883	O Casarão	Lagoa	Lagoa	Tradicional portuguesa		
+884	O Rústico	Caramujeira	Lagoa	Tradicional portuguesa	Carne	
+885	Roma	Carvoeiro	Lagoa	Regional 		
+886	Sueste	Ferragudo	Lagoa	Peixe Grelhado	Peixe	
+887	Villa Medici	Carvoeiro	Lagoa	Italiano		Não encerra
+888	A Comidinha	Lagos	Lagos	Tradicional portuguesa	Lulas recheadas, raia alhada, massada peixe	2ª feira
+889	As Asinhas	Lagos	Lagos	Regional 	Açorda de marisco, picanha, lulinhas fritas	Domingo
+890	Bom Apetite	Lagos	Lagos	Peixe/Marisco	Peixe/Marisco	2ª feira
+891	Chico Zé	Lagos	Lagos	Peixe e Carne Grelhada	Peixe Grelhado	Domingo
+892	Don Sebastião	Lagos	Lagos	Peixe/Marisco	Peixe/Arroz de Marisco	
+893	O Antonio	Lagos	Lagos	Peixe/Marisco	Peixe/marisco	Não encerra
+894	O Camilo	Lagos	Lagos	Regional	Peixe grelhado, mariscos	Não encerra
+895	Akvavit	Vilamoura	Loule	Internacional/Sueca	Peixe e marisco	3ª feira
+896	Casa da Praia	Vilamoura	Loule	Regional	Peixe, pratos algarvios	Não encerra
+897	Amadeus	Almancil	Loulé	Internacional		3ª feira
+898	Casa do Campo	Almancil	Loulé	Variada 		Domingo. Só serve jantares
+899	Fairways	Vilamoura	Loulé	Internacional		
+900	Gigi's	Almancil	Loulé	Internacional/Portuguesa	Caldeirada de bacalhau / peixes variados	Não encerra
+901	Julias	Almancil	Loulé	Internacional		
+902	Monte da Eira	Loulé	Loulé	Regional		2ª feira e domingo à noite
+903	O Jacinto	Quarteira	Loulé	Tradicional portuguesa	Peixe grelhado	2ª feira
+904	O Paixanito	Vale do Lobo	Loulé	Tradicional portuguesa		Domingo
+905	Querença	Querença	Loulé	Regional	Leitão na brasa	4ª feira
+906	Sol e Mar	Quarteira	Loulé	Marisqueira	Mariscada	
+907	Tá Certo	Almancil	Loulé	Tradicional portuguesa	Peixe grelhado	2ª feira
+908	Baía Tejo	Moita 	Moita 	Tradicional portuguesa	Bife de Espadarte/Cataplanas 	2ª feira
+909	Marisqueira Campino	Moita 	Moita 	Petiscos	Petiscos e Mariscos vários	2ª feira 
+910	O Gaspachinho	Moita 	Moita 	Regional	"Cozido à portuguesa; Ensopado de borrego à pastora; Bacorinho no forno; Especialidades de porco preto "	Domingo
+911	O Leilão	Montemor Novo	Mont Novo	Regional		Domingo
+912	O Vitor	Montijo	Montijo	Regional	Peixes grelhados	2ª feira
+913	S. Jorge	Sarilhos Grandes	Montijo	Tradicional portuguesa	Carne porco com enguias	3ª feira
+914	A Chaminé	Moura	Moura	Regional	Mista porco preto	
+915	O Trilho	Moura	Moura	Regional	Caldo de cação/migas	2ª feira
+916	A Tasca do Celso	V N Milfontes	Odemira	Tradicional portuguesa	Bife à la plancha e arraia grelhada, linguado frito com arroz de feijão e carnes de porco preto	2ª feira (de Inverno)
+917	O Pescador	V N Milfontes	Odemira	Mariscos, peixes frescos	Arroz de marisco, Arroz de tamboril e caldeirada	5ª feira (Inverno)
+918	Catedral do Marisco	Olhão	Olhão	Marisco - Típico Olhão	Cataplana de marisco	3ª feira
+919	O Horta	Olhão	Olhão	Peixe	Peixe	
+920	O Lagar	Olhão	Olhão	Tradicional portuguesa	Peixe grelhado e caça	4ª feira
+921	O Lobo 	Ourique	Ourique	Tradicional portuguesa	Cabrito na púcara	Sábado
+922	Restaurante Castro da Cola	Ourique	Ourique	Tradicional portuguesa	Cabidela de galinha	3ª feira
+923	A Charrua	Lagoinha	Palmela	Tradicional portuguesa	Caldeirada à Setubalense	2ª feira
+924	O Alqueva	Pinhal Novo	Palmela	Grelhados	Tirinhas do fundo/ Tábua porco preto	2ª feira
+925	O Central	Pinhal Novo	Palmela	Regional	Massa de peixe/ Carne Barrosã	
+926	O Nosso Café	Pinhal Novo	PALMELA	Grelhados	Caracol à tarde	2ª feira
+927	O Sobreiro	Quinta do Anjo	Palmela	Tradicional portuguesa	Especialidades de porco preto/ Sopa de santola	Domingo à noite e 2ª feira
+928	O Telheiro	Pinhal Novo	Palmela	Tradicional portuguesa	Arroz de Marisco	2ª feira
+929	O Velho Cangalho	Olhos de Água	Palmela	Tradicional portuguesa	Tábua Terra Mar	3ª feira
+930	O Vouga- casa de pasto	Pinhal Novo	Palmela	Tradicional portuguesa	Peixe e Carne no carvão	
+931	Pérola da Serra	Palmela	Palmela	Tradicional portuguesa	Peixes frescos no carvão	3ª feira
+932	Retiro Azul	Palmela	Palmela	Tradicional portuguesa	Massinha de cherne	Não encerra
+933	Jardim	Ponte Sor	Ponte Sor	Tradicional portuguesa	Bacalhau assado c/batata a murro e cozido à portuguesa	Domingo
+934	O Barril	Ponte Sor	Ponte Sor	Tradicional portuguesa	"Bacalhau à Barril e Migas de coentros c/carne alguidar; porco preto"	Domingo
+935	O Padeiro	Ponte Sor	Ponte Sor	Tradicional portuguesa	Bacalhau gratinado c/espinafres e Plumas de porco preto c/migas espargos	Domingo
+936	Seca Pipas	Ponte Sor	Ponte Sor	Tradicional portuguesa	Cozido à portuguesa e Picanha c/ananás grelhado	3ª feira
+937	O Álvaro	Portalegre	Portalegre	Tradicional portuguesa	Pezinhos de tomatada e lacão assado	5ª feira
+938	Solar do Forcado	Portalegre	Portalegre	Tradicional portuguesa	Espetadas de touro bravo e grelhados de porco preto	Sábado almoço e Domingo.
+939	Tomba Lobos	Portalegre	Portalegre	Tradicional portuguesa	Feijoada de gamo e Cachaço no forno	Domingo à noite e 2ª feira
+940	Campu's	Portimão	Portimao	Peixe/carne	Comida típica angolana	2ª feira
+941	A Lota	 Alvor	Portimão	Tradicional portuguesa	Peixe	
+942	A Teresinha	Portimão	Portimão	Tradicional portuguesa		
+943	A Tipóia	Portimão	Portimão	Tradicional portuguesa		Domingo
+944	Ababuja	Alvor	Portimão	Tradicional portuguesa	Peixe assado	
+945	Buganvilla	Alvor	Portimão	Tradicional portuguesa	Carne	2ª feira
+946	Clube Naval	Portimão	Portimão	Tradicional portuguesa	Tamboril à Chef/Carrê de borrego gratinado	2ª feira
+947	Dockside	Portimão	Portimão	Cervejaria Marisqueira	Mariscos/Cataplanas/ Peixe ao sal	
+948	Fisherman	Alvor	Portimão	Regional	Peixe grelhado/Cataplana/Massada de peixe/Arroz de tamboril/Sardinha assada	
+949	O Candeeiro	Alvor	Portimão	Tradicional portuguesa	Carne	4ª feira
+950	Vila Lisa	Mexilhoeira Grande	Portimão	Tradicional portuguesa	Rodízio de cozinha à portuguesa	Nâo encerra
+951	O Barro	Redondo	Redondo	Regional	Sopa da panela	2ª feira
+952	O Chana	Redondo	Redondo	Regional	Sopa de tomate	2ª feira
+953	Adega do Cachete	São Pedro do Corval	Reguengos de Monsaraz	Regional 	"Borreguinhos em azeite; assados em forno de lenha"	2ª feira
+954	Galeria do Esporão 	Reguengos de Monsaraz	Reguengos de Monsaraz	Tradicional portuguesa	Bacalhau à Esporão e Assado à Esporão	Almoços diariamente e Jantares só para grupos
+955	Marisqueira A Moira	Reguengos de Monsaraz	Reguengos de Monsaraz	Marisqueira e Regional  	Cataplana de peixe, Migas à alentejana, Costeletas de borrego fritas acompanhas com migas de espargos.	2ª feira
+956	O Aloendro 	Reguengos de Monsaraz	Reguengos de Monsaraz	Regional 	Migas de espargos e grelhados de porco preto. Borrego assado no forno ao fim-de-semana	2ª feira
+957	Sem Fim	Telheiro	Reguengos de Monsaraz	Regional 	Açorda de tomate e Bacalhau de azeite alhado	Só abre 6ª feira ao jantar, sáb e domingo todo o dia.
+958	Constantino das Enguias	Benfica do Ribatejo	Salvaterra de Magos	Petiscos	Enguias/Petiscos/Grelhados	
+959	Cervejaria Covas	Santiago Cacém	Santiago Cacém	Regional e marisqueira	Secretos de porco e mariscos	3ª feira
+960	O Arco	Santiago Cacém	Santiago Cacém	Regional 		Sábado
+961	A Estalagem	Santiago Cacém	Santiago do Cacém	Tradicional portuguesa	Leitão assado	Domingo
+962	Copa Cabana	Vila Nova de Santo André	Santiago do Cacém	Tradicional portuguesa	Pitéu de enguias	
+963	Palácio do Vinho	Amora	Seixal	Tradicional portuguesa	"Leitão da Bairrada; Cabrito no forno"	
+964	Sabores do Alentejo	Corroios	Seixal	Tradicional portuguesa	Pratos alentejanos	2ª feira
+965	Churrasqueira O Nay	Serpa	Serpa	Tradicional portuguesa	Cozidos/Grelhados 	Domingo
+966	Marisqueira Boavista 	Ficalho	Serpa	Tradicional portuguesa	Bom marisco/porco preto	3ª feira
+967	Molha o Bico	Serpa	Serpa	Regional	Pratos porco preto	4ª feira
+968	O Adro	Pias	Serpa	Regional	Secretos de porco preto /Javali estufado /Ensopado de enguias	4ª feira
+969	O Alentejano	Serpa	Serpa	Regional	Migas c/carne porco	2ª feira
+970	Pedra de Sal 	Serpa	Serpa	Regional	Pratos porco preto	2ª feira
+971	Angelus	Sesimbra	Sesimbra	Tradicional portuguesa	"Fondues; peixes e carnes "	Não encerra
+972	Celmar	Sesimbra	Sesimbra	Tradicional portuguesa	Peixe e Mariscos	
+973	Grelha Mar	Quinta do Conde	Sesimbra	Tradicional portuguesa	Espetada Barrosã	Domingo
+974	Manjar do Norte	Quinta do Conde	Sesimbra	Tradicional portuguesa	Leitão à Bairrada	2ª feira
+975	Mar do Peixe	Sesimbra	Sesimbra	Tradicional portuguesa	Peixe	
+976	O Acácio	Sesimbra	Sesimbra	Tradicional portuguesa	Peixe	3ª feira
+977	O Arpão	Quinta do Conde	Sesimbra	Tradicional portuguesa	Cataplana de Lagosta  - Pratos de peixe	2ª feira
+978	Pedra Alta	Sesimbra	Sesimbra		Peixe/Marisco	Não encerra
+979	Ribamar	Sesimbra	Sesimbra	De autor com referência ao mar	Sopa rica de peixe	Não encerra
+980	Tony-Bar	Sesimbra	Sesimbra	Diversos 	Peixe/Marisco	Não encerra
+981	Analídio	Setubal	Setubal	Tradicional portuguesa	Peixes frescos	2ª feira
+982	Casa Santiago - O Rei do Choco Frito	Setubal	Setubal	Tradicional portuguesa	Bacalhau e choco frito	2ª feira
+983	Poço das Fontainhas	Setubal	Setubal	Tradicional portuguesa	Esparguete de gambas, Massadas, Cataplanas e Caldeiradas de peixe fresco	2ª feira
+984	Alcanena / D.Isilda	Palmela	Setúbal	Tradicional portuguesa	Rodizio de cozinha portuguesa	4ª feira
+985	Azeitão	VN Azeitão	Setúbal	Tradicional portuguesa		5ª feira
+986	EL Toro	Setúbal	Setúbal	Tradicional portuguesa	Paelhas, Parrilhadas, Petiscos (Carne, Peixe e Marisco)	4ª feira
+987	Lancelot	Palmela	Setúbal	Tipica Madeirense	"Espetada à Madeirense; Tábua Terra e Mar; Poncha"	2ª feira ao jantar
+988	Lés a Lés	Setúbal	Setúbal	Tapas	Variedade de Tapas	Domingo e 2ª feira ao almoço 
+989	Ó Manel	V Fresca Azeitão	Setúbal		Paelha (Por encomenda / Min 3 pessoas)	
+990	Talho Parrinhita	Setúbal	Setúbal	Tradicional portuguesa	Carne de porco preto, Migas alentejanas, Grelhados no carvão	
+991	Belmondo Ristorante Italien Gourmet	Armação de Pera	Silves	Italiana	Massas	Não encerra
+992	Joaquim da Praça	S B Messines	Silves	Tradicional portuguesa	Peixe e Grelhados	2ª feira
+993	Cais da Estação	Sines	Sines	Marisqueira	Marisco	3ª feira
+994	Churraqueira de Sines	Sines	Sines	Grelhados	Sardinhas assadas	Domingo
+995	O Marquês	Porto Covo	Sines	Marisco	Arroz à Marquês (marisco)	
+996	O Mexilhão	Sines	Sines	Peixe/Marisco	Feijoada de búzios /peixe grelhado	2ª feira
+997	Arte e Sal	S.Torpes	Sines	Grelhados	Peixe grelhado	Domingo
+998	Bom Petisco	S.Torpes	Sines	Grelhados	Peixe grelhado	2ª feira
+999	O Migas	Sines	Sines	Fusão	Migas de espigos c/ bacalhau	4ª feira
+1000	Trinca Espinhas	Sines	Sines	Grelhados	Pratos Peixe	5ª feira
+1001	A Venda do Cabeça	Sousel	Sousel	Regional	Pezinhos porco	2ª feira
+1002	A Vêr Tavira	Tavira	Tavira	Mediterranica	Carré borrego/menu degustação	Não encerra
+1003	Jerónimo	Cabanas	Tavira	Peixe	Açorda de marisco	4ª feira
+1004	Mariscos e Petisco	Cabanas	Tavira	Peixe	Mariscadas	Não encerra
+1005	Marisqueira Capêlo	Santa Luzia	Tavira	Tradicional portuguesa	Mariscadas	2ª feira
+1006	O Prego	Vendas Novas	Vendas Novas	Regional	Galinha de cabidela	3ª feira
+1007	A Cascata	Vidigueira	Vidigueira	Tradicional portuguesa	Sopa de cação	3ª feira
+1008	Vila Velha	Vidigueira	Vidigueira	Tradicional portuguesa	Feijão com cardos/açorda de tomate	2ª feira
+1009	Eira do Mel	Vila do Bispo	Vila do Bispo	Slow Food	"Cozinha portuguesa; Peixes e mariscos da costa vicentina"	Domingo
+1010	Mar á Vista	Sagres	Vila do Bispo	Peixe/Marisco	Cataplana de peixe e marisco da costa vicentina	4ª feira
+1011	Marigil	Raposeira	Vila do Bispo	Tradicional portuguesa	Tipica portuguesa por encomenda	Sábado
+1012	A Tasca	Sagres	Vila do Bispo	Tradicional portuguesa	Peixe e mariscos frescos	4ª feira
+1013	Carlos	Sagres	Vila do Bispo	Tradicional portuguesa	Peixe fresco	4ª feira
+1014	Retiro do Pescador 	Sagres	Vila do Bispo	Peixe/Carne	Grelhados no carvão	2ª feira
+1015	Vila Velha	Sagres	Vila do Bispo	Peixe/Carne	Cozinha portuguesa e internacional e pratos vegetarianos	2ª feira
+1016	Os Cucos	Vila Vicosa	Vila Vicosa	Regional	Espetadas c/espargos	2ª feira
+1017	Casa Azul	Cacela Velha	VRS Antonio	Mediterrânica	Peixe	3ª feira
+1018	Marisqueira Monte Gordo	Monte Gordo	VRS Antonio	Marisqueira	Açorda Marisco/massada peixe	Não encerra
+1019	Sem Espinhas	Manta Rota	VRS Antonio	carne/peixes	Peixe	Não encerra
+1020	Solar do Guadiana	VRS Antonio	VRS Antonio	Mediterrânica	Bacalhau à Solar	2ª feira, Inverno
+1021	 A Ilha	S. Sebastião	Angra do Heroísmo 	 Regional	Sopas do Espírito Santo,Cozidos.	 3ª feira
+1022	 Beira-Mar de São Mateus	S. Mateus da Calheta	Angra do Heroísmo 	Tradicional portuguesa	Lapas grelhadas e Peixe grelhado	2ª feira
+1023	 Boca Negra	Porto Judeu	Angra do Heroísmo 	Regional	Alcatra de peixe	Não encerra
+1024	 Casa do Peixe	Angra do Heroísmo 	Angra do Heroísmo 	Tradicional portuguesa	Peixe fresco	3ª feira
+1025	 Leme	Angra do Heroísmo 	Angra do Heroísmo 	Tradicional portuguesa	Peixe grelhado	Domingo
+1026	 Marcelinos	Angra do Heroísmo 	Angra do Heroísmo 	Tradicional portuguesa	Bife com pimenta	Não encerra
+1027	 O Pátio	Angra do Heroísmo 	Angra do Heroísmo 	Tradicional portuguesa	Bifes diversos	Não encerra
+1028	 Quinta do Martelo	S. Mateus da Calheta	Angra do Heroísmo 	Regional	Sopa de peixe à moda de São Mateus, Alcatara de peixe	4ª feira
+1029	 Tichoa	Serreta	Angra do Heroísmo 	Regional	Alcatra e petiscos regionais	Domingo
+1030	Ambientes com Sabores	Angra do Heroísmo 	Angra do Heroísmo 	Cozinha Moderna	Bife de porco com azeite e Cebolinho	Domingo
+1031	Beira Mar	Angra do Heroísmo 	Angra do Heroísmo 	Tradicional portuguesa	Sopa do mar	Não encerra
+1032	O Barrigada  	Feteira	Angra do Heroísmo 	Tradicional portuguesa	Alcatra regional e Buffet	
+1033	O Élio's	Angra do Heroísmo 	Angra do Heroísmo 	Regional	Pizza da casa e saladas	3ª feira
+1034	Espada Preta	Camara de Lobos	Camara de Lobos	Regional	Todo o tipo de peixe e a açorda de marisco	2ª  feira 
+1035	O Lagar	Camara de Lobos	Camara de Lobos	Regional	Espetada regional	Não encerra
+1036	Santo Antonio	Camara de Lobos	Camara de Lobos	Regional	Espetada regional	Não encerra
+1037	Armazém do Sal	Funchal	Funchal	Tradicional portuguesa	Atum	Domingo
+1038	Basílico	Funchal	Funchal	Italiana		Não encerra
+1039	Beer House	Funchal	Funchal	Marisqueira e Grelhados	Bife à Cervejaria	Não encerra
+1040	Dom Pepe	Funchal	Funchal	Tradicional portuguesa	Secretos de porco preto e todo o tipo de carnes	Domingo
+1041	Gavião Novo	Funchal	Funchal	Peixe	Todo o tipo de peixe 	Não encerra
+1042	O Forte	Funchal	Funchal	Tradicional portuguesa		Domingo
+1043	O Jango	Funchal	Funchal	Restaurante Peixe	Peixe	Não encerra
+1044	O Molhe	Funchal	Funchal	Francesa e portuguesa		Domingo e 2ª feira
+1045	Villa Cipriani	Funchal 	Funchal	Italiana		Não encerra. Só serve jantar
+1046	The Vine Gourmet	Funchal	Funchal	Francesa e mediterrânica	Peixe galo com crosta viennoise e borrego de leite dos Pirinéus	Domingo à noite e 2ª feira
+1047	Tokos	Funchal	Funchal	Mediterranica	Todo o tipo de peixe e açorda de marisco	2º feira
+1048	O Tony's	Furnas	Furnas-Povoação		Cozido na caldeira das Furnas	Não encerra
+1049	Canto da Doca	Horta	Horta	Grelhados na pedra	Mixer Especial (Mistura de carnes, peixes e mariscos),	Não encerra
+1050	Ponta Furada	Horta	Horta	Pratos requintados	Filet mignon, secretos de porco preto, ameijoa à Bulhão Pato, cherne à marisqueira	4ª feira ao jantar
+1051	Salgueirinha	Horta	Horta	Pratos requintados	Espetada de cherne, Fondue de carnes	Não encerra
+1052	Ala Bote	Ribeira Grande	Ilha de São Miguel	Tradicional portuguesa	"Telha Peixe c/Gambas; Cataplana cherne"	3ª feira
+1053	O Silva	Ribeira Grande	Ilha de São Miguel	Tradicional portuguesa	Arroz de tamboril, Mariscos  	2ª feira
+1054	Cais 20	Ponta Delgada	Ponta Delgada	Petiscos e Mariscos		2ª  feira 
+1055	Delicias do Mar	Ponta Delgada	Ponta Delgada	Peixe	Cherne grelhado e outros peixes grelhados	Não encerra
+1056	Marinero	Ponta Delgada	Ponta Delgada	Sevilha	Marisco e Peixe - Cataplanas de peixe	Não encerra
+1057	Mariserra	Ponta Delgada	Ponta Delgada	Tradicional portuguesa	Marisco e Peixe, Cataplanas de peixe	Não encerra
+1058	Rapa o Tacho e Molha o Bico	Ponta Delgada	Ponta Delgada	Tradicional portuguesa	"Bife à Fernando; Bacalhau na telha e espetada de lulas"	Não encerra
+1059	O Pescador	Praia Vitoria	Praia da Vitoria	Tradicional portuguesa	Espetada de cherne	2ª feira
+1060	Sabores do Chefe	Praia Vitoria	Praia da Vitoria	Moderna	Espetada de cherne	3ª feira
+1061	Ass. Agrícola	Santana	Ribeira Grande	Regional	Bife regional	Não encerra
+1062	Gato Mia	Ribeirinha	Ribeira Grande	Regional	Sugestão do Chef	3ª feira
+1063	Ver de Mar	São Miguel	São Vicente Ferreira	Regional	Peixe e Marisco	4ª feira
+1064	Praia Café	Vila F Campo	V F Campo	Tradicional portuguesa	Chicharros casados	2º feira
